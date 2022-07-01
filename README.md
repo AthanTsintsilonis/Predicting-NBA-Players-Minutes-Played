@@ -7,4 +7,6 @@ This project aims to predict a players draft position based on their combine mea
 2. Constructing a Linear Regression Model to predict draft position (Linear Regression Model)
 
 It is still currently a work in progress
+
+Next steps: Use data from all availabe years, present results better, debug
  
