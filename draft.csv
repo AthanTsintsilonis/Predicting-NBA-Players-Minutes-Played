@@ -1,0 +1,978 @@
+,PERSON_ID,DISPLAY_FIRST_LAST,SCHOOL,BIRTHDATE,SEASON_EXP,DRAFT_YEAR,DRAFT_ROUND,DRAFT_NUMBER
+0,1630173,Precious Achiuwa,Memphis,1999-09-19T00:00:00,2,2020,1,20
+0,101165,Alex Acker,Pepperdine,1983-01-21T00:00:00,3,2005,2,60
+0,203112,Quincy Acy,Baylor,1990-10-06T00:00:00,7,2012,2,37
+0,203919,Jordan Adams,UCLA,1994-07-08T00:00:00,3,2014,1,22
+0,203500,Steven Adams,Pittsburgh,1993-07-20T00:00:00,9,2013,1,12
+0,202399,Jeff Adrien,Connecticut,1986-02-10T00:00:00,6,Undrafted,Undrafted,Undrafted
+0,200772,Maurice Ager,Michigan State,1984-02-09T00:00:00,4,2006,1,28
+0,202374,Solomon Alabi,Florida State,1988-03-21T00:00:00,3,2010,2,50
+0,202332,Cole Aldrich,Kansas,1988-10-31T00:00:00,9,2010,1,11
+0,200746,LaMarcus Aldridge,Texas-Austin,1985-07-19T00:00:00,16,2006,1,2
+0,1626146,Cliff Alexander,Kansas,1995-11-16T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,201570,Joe Alexander,West Virginia,1986-12-26T00:00:00,3,2008,1,8
+0,1630234,Ty-Shon Alexander,Creighton,1998-07-16T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1629638,Nickeil Alexander-Walker,Virginia Tech,1998-09-02T00:00:00,3,2019,1,17
+0,1628959,Rawle Alkins,Arizona,1997-10-29T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1628960,Grayson Allen,Duke,1995-10-08T00:00:00,4,2018,1,21
+0,1628386,Jarrett Allen,Texas-Austin,1998-04-21T00:00:00,5,2017,1,22
+0,1628443,Kadeem Allen,Arizona,1993-01-15T00:00:00,3,2017,2,53
+0,2124,Malik Allen,Villanova,1978-06-27T00:00:00,11,Undrafted,Undrafted,Undrafted
+0,2754,Tony Allen,Oklahoma State,1982-01-11T00:00:00,14,2004,1,25
+0,201165,Morris Almond,Rice,1985-02-02T00:00:00,4,2007,1,25
+0,202329,Al-Farouq Aminu,Wake Forest,1990-09-21T00:00:00,12,2010,1,8
+0,200811,Lou Amundson,UNLV,1982-12-07T00:00:00,11,Undrafted,Undrafted,Undrafted
+0,101187,Alan Anderson,Michigan State,1982-10-16T00:00:00,9,Undrafted,Undrafted,Undrafted
+0,202341,James Anderson,Oklahoma State,1989-03-25T00:00:00,6,2010,1,20
+0,1626147,Justin Anderson,Virginia,1993-11-19T00:00:00,6,2015,1,21
+0,203937,Kyle Anderson,UCLA,1993-09-20T00:00:00,8,2014,1,30
+0,101149,Martynas Andriuskevicius,Zalgiris,1986-03-12T00:00:00,2,2005,2,44
+0,1628387,Ike Anigbogu,UCLA,1998-10-16T00:00:00,3,2017,2,47
+0,1628961,Kostas Antetokounmpo,University of Dayton,1997-11-20T00:00:00,4,2018,2,60
+0,203648,Thanasis Antetokounmpo,Panathinaikos,1992-07-18T00:00:00,4,2014,2,51
+0,2546,Carmelo Anthony,Syracuse,1984-05-29T00:00:00,19,2003,1,3
+0,1628384,OG Anunoby,Indiana,1997-07-17T00:00:00,5,2017,1,23
+0,2425,Robert Archibald,Illinois,1980-03-29T00:00:00,3,2002,2,31
+0,2240,Gilbert Arenas,Arizona,1982-01-06T00:00:00,12,2001,2,30
+0,2772,Trevor Ariza,UCLA,1985-06-30T00:00:00,18,2004,2,43
+0,2220,Brandon Armstrong,Pepperdine,1980-06-16T00:00:00,4,2001,1,23
+0,200756,Hilton Armstrong,Connecticut,1984-11-23T00:00:00,6,2006,1,12
+0,201589,Darrell Arthur,Kansas,1988-03-25T00:00:00,10,2008,1,27
+0,1628503,Jamel Artis,Pittsburgh,1993-01-12T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,201571,D.J. Augustin,Texas-Austin,1987-11-10T00:00:00,14,2008,1,9
+0,200788,James Augustine,Illinois,1984-02-27T00:00:00,2,2006,2,41
+0,201965,Jeff Ayres,Arizona State,1987-04-29T00:00:00,7,2009,2,31
+0,1628962,Udoka Azubuike,Kansas,1999-09-17T00:00:00,2,2020,1,27
+0,202337,Luke Babbitt,Nevada-Reno,1989-06-20T00:00:00,9,2010,1,16
+0,1628407,Dwayne Bacon,Florida State,1995-08-30T00:00:00,5,2017,2,40
+0,203946,Cameron Bairstow,New Mexico,1990-12-07T00:00:00,3,2014,2,49
+0,2486,Maurice Baker,Oklahoma State,1979-07-28T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1627758,Ron Baker,Wichita State,1993-03-30T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1627735,Wade Baldwin IV,Vanderbilt,1996-03-29T00:00:00,3,2016,1,17
+0,200764,Renaldo Balkman,South Carolina,1984-07-14T00:00:00,7,2006,1,20
+0,203084,Harrison Barnes,North Carolina,1992-05-30T00:00:00,10,2012,1,7
+0,2440,Matt Barnes,UCLA,1980-03-09T00:00:00,15,2002,2,45
+0,1630567,Scottie Barnes,Florida State,2001-08-01T00:00:00,1,2021,1,4
+0,2857,Andre Barrett,Seton Hall,1982-02-21T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,1629628,RJ Barrett,Duke,2000-06-14T00:00:00,3,2019,1,3
+0,203115,Will Barton,Memphis,1991-01-06T00:00:00,10,2012,2,40
+0,101188,Eddie Basden,North Carolina-Charlotte,1983-02-15T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,101138,Brandon Bass,Louisiana State,1985-04-30T00:00:00,13,2005,2,33
+0,1629646,Charles Bassey,Western Kentucky,2000-10-28T00:00:00,1,2021,2,53
+0,1628966,Keita Bates-Diop,Ohio State,1996-01-23T00:00:00,4,2018,2,48
+0,2203,Shane Battier,Duke,1978-09-09T00:00:00,13,2001,1,6
+0,2437,Lonny Baxter,Maryland,1979-01-27T00:00:00,4,2002,2,43
+0,201573,Jerryd Bayless,Arizona,1988-08-20T00:00:00,12,2008,1,11
+0,1629647,Darius Bazley,Princeton HS (OH),2000-06-12T00:00:00,3,2019,1,23
+0,203078,Bradley Beal,Florida,1993-06-28T00:00:00,10,2012,1,3
+0,2602,Jerome Beasley,North Dakota,1980-05-17T00:00:00,2,2003,2,33
+0,1627736,Malik Beasley,Florida State,1996-11-26T00:00:00,6,2016,1,19
+0,201563,Michael Beasley,Kansas State,1989-01-09T00:00:00,12,2008,1,2
+0,201958,Rodrigue Beaubois,Cholet,1988-02-24T00:00:00,5,2009,1,25
+0,2294,Charlie Bell,Michigan State,1979-03-12T00:00:00,8,Undrafted,Undrafted,Undrafted
+0,1628395,Jordan Bell,Oregon,1995-01-07T00:00:00,5,2017,2,38
+0,2559,Troy Bell,Boston College,1980-11-10T00:00:00,2,2003,1,16
+0,202728,Keith Benson,Oakland,1988-08-13T00:00:00,2,2011,2,48
+0,1627791,Ben Bentil,Providence,1995-03-29T00:00:00,1,2016,2,51
+0,1630189,Tyler Bey,Colorado,1998-02-10T00:00:00,2,2020,2,36
+0,2740,Andris Biedrins,BK Skonto,1986-04-02T00:00:00,10,2004,1,11
+0,203920,Khem Birch,UNLV,1992-09-28T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,201971,DeJuan Blair,Pittsburgh,1989-04-22T00:00:00,7,2009,2,37
+0,200807,Will Blalock,Iowa State,1983-09-08T00:00:00,2,2006,2,60
+0,202339,Eric Bledsoe,Kentucky,1989-12-09T00:00:00,13,2010,1,18
+0,1628417,Jaron Blossomgame,Clemson,1993-09-16T00:00:00,2,2017,2,59
+0,203505,Vander Blue,Marquette,1992-07-17T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2800,Tony Bobbitt,Cincinnati,1979-10-22T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2586,Keith Bogans,Kentucky,1980-05-12T00:00:00,11,2003,2,43
+0,101106,Andrew Bogut,Utah,1984-11-28T00:00:00,15,2005,1,1
+0,1629626,Bol Bol,Oregon,1999-11-16T00:00:00,3,2019,2,44
+0,1627762,Joel Bolomboy,Weber State,1994-01-28T00:00:00,2,2016,2,52
+0,1629648,Jordan Bone,Tennessee,1997-11-05T00:00:00,2,2019,2,57
+0,2588,Matt Bonner,Florida,1980-04-05T00:00:00,13,2003,2,45
+0,1626164,Devin Booker,Kentucky,1996-10-30T00:00:00,7,2015,1,13
+0,202344,Trevor Booker,Clemson,1987-11-25T00:00:00,8,2010,1,23
+0,2430,Carlos Boozer,Duke,1981-11-20T00:00:00,13,2002,2,34
+0,2414,Curtis Borchardt,Stanford,1980-09-13T00:00:00,3,2002,1,18
+0,2547,Chris Bosh,Georgia Tech,1984-03-24T00:00:00,14,2003,1,4
+0,1630527,Brandon Boston,Kentucky,2001-11-28T00:00:00,1,2021,2,51
+0,1628449,Chris Boucher,Oregon,1993-01-11T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,1630547,James Bouknight,Connecticut,2000-09-18T00:00:00,1,2021,1,11
+0,2257,Ruben Boumtje-Boumtje,Georgetown,1978-05-20T00:00:00,4,2001,2,49
+0,1628968,Brian Bowen II,La Lumiere H.S.,1998-10-02T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1629065,Ky Bowman,Boston College,1997-06-16T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,202342,Craig Brackins,Iowa State,1987-10-09T00:00:00,3,2010,1,21
+0,202340,Avery Bradley,Texas-Austin,1990-11-26T00:00:00,12,2010,1,19
+0,2214,Michael Bradley,Villanova,1979-04-18T00:00:00,5,2001,1,17
+0,1628396,Tony Bradley,North Carolina,1998-01-08T00:00:00,5,2017,1,28
+0,1629649,Ignas Brazdeikis,Michigan,1999-01-08T00:00:00,3,2019,2,47
+0,2452,J.R. Bremer,St. Bonaventure,1980-09-19T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,201147,Corey Brewer,Florida,1986-03-05T00:00:00,14,2007,1,7
+0,2249,Jamison Brewer,Auburn,1980-11-19T00:00:00,4,2001,2,40
+0,200758,Ronnie Brewer,Arkansas,1985-03-20T00:00:00,8,2006,1,14
+0,2056,Primoz Brezec,Union Olimpija,1979-10-02T00:00:00,9,2000,1,27
+0,1628970,Miles Bridges,Michigan State,1998-03-21T00:00:00,4,2018,1,12
+0,1628515,Isaiah Briscoe,Kentucky,1996-04-13T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1627763,Malcolm Brogdon,Virginia,1992-12-11T00:00:00,6,2016,2,36
+0,201166,Aaron Brooks,Oregon,1985-01-14T00:00:00,11,2007,1,26
+0,1628415,Dillon Brooks,Oregon,1996-01-22T00:00:00,5,2017,2,45
+0,2810,Andre Brown,DePaul,1981-05-12T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,1626148,Anthony Brown,Stanford,1992-10-10T00:00:00,4,2015,2,34
+0,201628,Bobby Brown,Cal State-Fullerton,1984-09-24T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,1628971,Bruce Brown,Miami,1996-08-15T00:00:00,4,2018,2,42
+0,2245,Damone Brown,Syracuse,1979-06-28T00:00:00,5,2001,2,36
+0,244,Dee Brown,Jacksonville,1968-11-29T00:00:00,12,1990,1,19
+0,200793,Dee Brown,Illinois,1984-08-17T00:00:00,3,2006,2,46
+0,201974,Derrick Brown,Xavier,1987-09-08T00:00:00,4,2009,2,40
+0,2081,Ernest Brown,Indian Hills C.C.,1979-05-17T00:00:00,2,2000,2,52
+0,203913,Jabari Brown,Missouri,1992-12-18T00:00:00,2,2014,,
+0,1627759,Jaylen Brown,California,1996-10-24T00:00:00,6,2016,1,3
+0,2198,Kwame Brown,Glynn Academy HS (GA),1982-03-10T00:00:00,13,2001,1,1
+0,203485,Lorenzo Brown,North Carolina State,1990-08-26T00:00:00,5,2013,2,52
+0,203900,Markel Brown,Oklahoma State,1992-01-29T00:00:00,4,2014,2,44
+0,1629650,Moses Brown,UCLA,1999-10-13T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1630535,Greg Brown III,Texas-Austin,2001-09-01T00:00:00,1,2021,2,43
+0,1628973,Jalen Brunson,Villanova,1996-08-31T00:00:00,4,2018,2,33
+0,1628418,Thomas Bryant,Indiana,1997-07-31T00:00:00,5,2017,2,42
+0,201978,Chase Budinger,Arizona,1988-05-22T00:00:00,8,2009,2,44
+0,203493,Reggie Bullock,North Carolina,1991-03-16T00:00:00,9,2013,1,25
+0,203504,Trey Burke,Michigan,1992-11-12T00:00:00,9,2013,1,9
+0,202692,Alec Burks,Colorado,1991-07-20T00:00:00,11,2011,1,12
+0,2766,Antonio Burks,Memphis,1980-02-25T00:00:00,2,2004,2,36
+0,1629126,Deonte Burton,Iowa State,1994-01-31T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,202221,Brian Butch,Wisconsin,1984-12-22T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,2406,Caron Butler,Connecticut,1980-03-13T00:00:00,15,2002,1,10
+0,2866,Jackie Butler,Coastal Christian Academy (VA),1985-03-10T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,1630215,Jared Butler,Baylor,2000-08-25T00:00:00,1,2021,2,40
+0,202710,Jimmy Butler,Marquette,1989-09-14T00:00:00,11,2011,1,30
+0,2446,Rasual Butler,La Salle,1979-05-23T00:00:00,14,2002,2,52
+0,101198,Will Bynum,Georgia Tech,1983-01-04T00:00:00,9,Undrafted,Undrafted,Undrafted
+0,203484,Kentavious Caldwell-Pope,Georgia,1993-02-18T00:00:00,9,2013,1,8
+0,203477,Isaiah Canaan,Murray State,1991-05-21T00:00:00,6,2013,2,34
+0,202382,Derrick Caracter,Texas-El Paso,1988-05-04T00:00:00,2,2010,2,58
+0,200760,Rodney Carney,Memphis,1984-04-05T00:00:00,5,2006,1,16
+0,201960,DeMarre Carroll,Missouri,1986-07-27T00:00:00,12,2009,1,27
+0,2679,Matt Carroll,Notre Dame,1980-08-28T00:00:00,10,Undrafted,Undrafted,Undrafted
+0,1628975,Jevon Carter,West Virginia,1995-09-14T00:00:00,4,2018,2,32
+0,203487,Michael Carter-Williams,Syracuse,1991-10-10T00:00:00,9,2013,1,11
+0,201956,Omri Casspi,Maccabi Tel Aviv,1988-06-22T00:00:00,10,2009,1,23
+0,1626161,Willie Cauley-Stein,Kentucky,1993-08-18T00:00:00,7,2015,1,6
+0,1630551,Justin Champagnie,Pittsburgh,2001-06-29T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,2199,Tyson Chandler,                                   ,1982-10-02T00:00:00,20,2001,1,2
+0,2735,Josh Childress,Stanford,1983-06-20T00:00:00,9,2004,1,6
+0,1627737,Marquese Chriss,Washington,1997-07-02T00:00:00,6,2016,1,8
+0,202091,Dionte Christmas,Temple,1986-09-15T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1626176,Rakeem Christmas,Syracuse,1991-12-01T00:00:00,3,2015,2,36
+0,203902,Semaj Christon,Xavier,1992-11-01T00:00:00,2,2014,2,55
+0,1630528,Josh Christopher,Arizona State,2001-12-08T00:00:00,1,2021,1,24
+0,201947,Earl Clark,Louisville,1988-01-17T00:00:00,6,2009,1,14
+0,1629634,Brandon Clarke,Gonzaga,1996-09-19T00:00:00,3,2019,1,21
+0,203903,Jordan Clarkson,Missouri,1992-06-07T00:00:00,8,2014,2,46
+0,1629651,Nic Claxton,Georgia,1999-04-17T00:00:00,3,2019,2,31
+0,2049,Speedy Claxton,Hofstra,1978-05-08T00:00:00,8,2000,1,20
+0,202708,Norris Cole,Cleveland State,1988-10-13T00:00:00,7,2011,1,28
+0,2260,Jarron Collins,Stanford,1978-12-02T00:00:00,10,2001,2,52
+0,2215,Jason Collins,Stanford,1978-12-02T00:00:00,13,2001,1,18
+0,1628381,John Collins,Wake Forest,1997-09-23T00:00:00,5,2017,1,19
+0,200776,Mardy Collins,Temple,1984-08-04T00:00:00,5,2006,1,29
+0,202395,Sherron Collins,Kansas,1987-03-18T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1628380,Zach Collins,Gonzaga,1997-11-19T00:00:00,4,2017,1,10
+0,201954,Darren Collison,UCLA,1987-08-23T00:00:00,11,2009,1,21
+0,2555,Nick Collison,Kansas,1980-10-26T00:00:00,15,2003,1,12
+0,201144,Mike Conley,Ohio State,1987-10-11T00:00:00,15,2007,1,4
+0,1626192,Pat Connaughton,Notre Dame,1993-01-06T00:00:00,7,2015,2,41
+0,101215,Will Conroy,Washington,1982-12-08T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2567,Brian Cook,Illinois,1980-12-04T00:00:00,10,2003,1,24
+0,201161,Daequan Cook,Ohio State,1987-04-28T00:00:00,7,2007,1,21
+0,2241,Omar Cook,St. John's,1982-01-28T00:00:00,3,2001,2,31
+0,1626188,Quinn Cook,Duke,1993-03-23T00:00:00,6,Undrafted,Undrafted,Undrafted
+0,1629076,Tyler Cook,Iowa,1997-09-23T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1630536,Sharife Cooper,Auburn,2001-06-11T00:00:00,1,2021,2,48
+0,202326,DeMarcus Cousins,Kentucky,1990-08-13T00:00:00,11,2010,1,5
+0,203496,Robert Covington,Tennessee State,1990-12-14T00:00:00,9,Undrafted,Undrafted,Undrafted
+0,203459,Allen Crabbe,California,1992-04-09T00:00:00,7,2013,2,31
+0,2037,Jamal Crawford,Michigan,1980-03-20T00:00:00,21,2000,1,8
+0,201621,Joe Crawford,Kentucky,1986-06-17T00:00:00,2,2008,2,58
+0,202348,Jordan Crawford,Xavier,1988-10-23T00:00:00,6,2010,1,27
+0,201159,Javaris Crittenton,Georgia Tech,1987-12-31T00:00:00,3,2007,1,19
+0,203109,Jae Crowder,Marquette,1990-07-06T00:00:00,10,2012,2,34
+0,1629633,Jarrett Culver,Texas Tech,1999-02-20T00:00:00,3,2019,1,6
+0,1630595,Cade Cunningham,Oklahoma State,2001-09-25T00:00:00,1,2021,1,1
+0,201967,Dante Cunningham,Villanova,1987-04-22T00:00:00,11,2009,2,33
+0,203099,Jared Cunningham,Oregon State,1991-05-22T00:00:00,5,2012,1,24
+0,2201,Eddy Curry,Thornwood HS (IL),1982-12-05T00:00:00,11,2001,1,4
+0,203552,Seth Curry,Duke,1990-08-23T00:00:00,8,Undrafted,Undrafted,Undrafted
+0,201939,Stephen Curry,Davidson,1988-03-14T00:00:00,13,2009,1,7
+0,2845,Erik Daniels,Kentucky,1982-04-01T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2605,Marquis Daniels,Auburn,1981-01-07T00:00:00,11,Undrafted,Undrafted,Undrafted
+0,201176,Jermareo Davidson,Alabama,1984-11-15T00:00:00,3,2007,2,36
+0,203561,Brandon Davies,Brigham Young,1991-07-25T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,203076,Anthony Davis,Kentucky,1993-03-11T00:00:00,10,2012,1,1
+0,1627738,Deyonta Davis,Michigan State,1996-12-02T00:00:00,4,2016,2,31
+0,202334,Ed Davis,North Carolina,1989-06-05T00:00:00,12,2010,1,13
+0,76526,Johnny Davis,Dayton,1955-10-21T00:00:00,10,1976,2,22
+0,1629056,Terence Davis,Mississippi,1997-05-16T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1626183,Branden Dawson,Michigan State,1993-02-01T00:00:00,2,2015,2,56
+0,201948,Austin Daye,Gonzaga,1988-06-05T00:00:00,7,2009,1,15
+0,201942,DeMar DeRozan,Southern California,1989-08-07T00:00:00,13,2009,1,9
+0,203473,Dewayne Dedmon,Southern California,1989-08-12T00:00:00,9,Undrafted,Undrafted,Undrafted
+0,1626155,Sam Dekker,Wisconsin,1994-05-06T00:00:00,5,2015,1,18
+0,2736,Luol Deng,Duke,1985-04-16T00:00:00,16,2004,1,7
+0,1628978,Donte DiVincenzo,Villanova,1997-01-31T00:00:00,4,2018,1,17
+0,1629603,Mamadi Diakite,Virginia,1997-01-21T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1627767,Cheick Diallo,Kansas,1996-09-13T00:00:00,5,2016,2,33
+0,1628977,Hamidou Diallo,Kentucky,1998-07-31T00:00:00,4,2018,2,45
+0,101143,Travis Diener,Marquette,1982-03-01T00:00:00,6,2005,2,38
+0,203476,Gorgui Dieng,Louisville,1990-01-18T00:00:00,9,2013,1,21
+0,203915,Spencer Dinwiddie,Colorado,1993-04-06T00:00:00,8,2014,2,38
+0,101113,Ike Diogu,Arizona State,1983-09-11T00:00:00,7,2005,1,9
+0,2205,DeSagana Diop,No College,1982-01-30T00:00:00,13,2001,1,8
+0,201595,Joey Dorsey,Memphis,1983-12-16T00:00:00,4,2008,2,33
+0,1628416,Tyler Dorsey,Oregon,1996-02-18T00:00:00,3,2017,2,41
+0,1629652,Luguentz Dort,Arizona State,1999-04-19T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1630245,Ayo Dosunmu,Illinois,2000-01-17T00:00:00,1,2021,2,38
+0,1628422,Damyean Dotson,Houston,1994-05-06T00:00:00,5,2017,2,44
+0,1629653,Devon Dotson,Kansas,1999-08-02T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,201962,Toney Douglas,Florida State,1986-03-16T00:00:00,8,2009,1,29
+0,202220,Zabian Dowdell,Virginia Tech,1984-09-10T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1628408,P.J. Dozier,South Carolina,1996-10-25T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,203083,Andre Drummond,Connecticut,1993-08-10T00:00:00,10,2012,1,9
+0,201162,Jared Dudley,Boston College,1985-07-10T00:00:00,15,2007,1,22
+0,2768,Chris Duhon,Duke,1982-08-31T00:00:00,10,2004,2,38
+0,1630561,David Duke Jr.,Providence,1999-10-13T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,2399,Mike Dunleavy,Duke,1980-09-15T00:00:00,16,2002,1,3
+0,76616,Mike Dunleavy,South Carolina,1954-03-21T00:00:00,11,1976,6,99
+0,1627739,Kris Dunn,Providence,1994-03-18T00:00:00,6,2016,1,5
+0,2648,Ronald Dupree,Louisiana State,1981-01-26T00:00:00,7,Undrafted,Undrafted,Undrafted
+0,201142,Kevin Durant,Texas-Austin,1988-09-29T00:00:00,14,2007,1,2
+0,1628979,Trevon Duval,Duke,1998-08-03T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,203921,Cleanthony Early,Wichita State,1991-04-17T00:00:00,3,2014,2,34
+0,202365,Devin Ebanks,West Virginia,1989-10-28T00:00:00,4,2010,2,43
+0,1629035,Carsen Edwards,Purdue,1998-03-12T00:00:00,3,2019,2,33
+0,2451,Corsley Edwards,Central Connecticut State,1979-03-05T00:00:00,1,2002,2,57
+0,2823,John Edwards,Kent State,1981-07-31T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1630556,Kessler Edwards,Pepperdine,2000-08-09T00:00:00,1,2021,2,44
+0,2064,Khalid El-Amin,Connecticut,1979-04-25T00:00:00,2,2000,2,34
+0,1629604,CJ Elleby,Washington State,2000-06-16T00:00:00,2,2020,2,46
+0,1627740,Henry Ellenson,Marquette,1997-01-13T00:00:00,5,2016,1,18
+0,201961,Wayne Ellington,North Carolina,1987-11-29T00:00:00,13,2009,1,28
+0,101145,Monta Ellis,No College,1985-10-26T00:00:00,13,2005,2,40
+0,2408,Melvin Ely,Fresno State,1978-05-02T00:00:00,9,2002,1,12
+0,2765,Andre Emmett,Texas Tech,1982-08-27T00:00:00,3,2004,2,35
+0,203119,Kim English,Missouri,1988-09-24T00:00:00,2,2012,2,44
+0,203898,Tyler Ennis,Syracuse,1994-08-24T00:00:00,4,2014,1,18
+0,1628980,Jacob Evans,Cincinnati,1997-06-18T00:00:00,3,2018,1,28
+0,1628393,Jawun Evans,Oklahoma State,1996-07-26T00:00:00,3,2017,2,39
+0,2230,Maurice Evans,Texas,1978-11-08T00:00:00,10,Undrafted,Undrafted,Undrafted
+0,2501,Reggie Evans,Iowa,1980-05-18T00:00:00,13,Undrafted,Undrafted,Undrafted
+0,201936,Tyreke Evans,Memphis,1989-09-19T00:00:00,10,2009,1,4
+0,203957,Dante Exum,                                   ,1995-07-13T00:00:00,7,2014,1,5
+0,203105,Festus Ezeli,Vanderbilt,1989-10-21T00:00:00,4,2012,1,30
+0,1629605,Tacko Fall,UCF,1995-12-10T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,202702,Kenneth Faried,Morehead State,1989-11-19T00:00:00,9,2011,1,22
+0,200770,Jordan Farmar,UCLA,1986-11-30T00:00:00,10,2006,1,26
+0,2824,Desmon Farmer,Southern California,1981-10-07T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,202324,Derrick Favors,Georgia Tech,1991-07-15T00:00:00,12,2010,1,3
+0,1627770,Kay Felder,Oakland,1995-03-29T00:00:00,3,2016,2,54
+0,203467,Carrick Felix,Arizona State,1990-08-17T00:00:00,2,2013,2,33
+0,101109,Raymond Felton,North Carolina,1984-06-26T00:00:00,15,2005,1,5
+0,1628390,Terrance Ferguson,Adelaide,1998-05-17T00:00:00,4,2017,1,21
+0,201164,Rudy Fernandez,DKV Joventut,1985-04-04T00:00:00,5,2007,1,24
+0,1628981,Bruno Fernando,Maryland,1998-08-15T00:00:00,3,2019,2,34
+0,1627827,Dorian Finney-Smith,Florida,1993-05-04T00:00:00,6,Undrafted,Undrafted,Undrafted
+0,2784,Luis Flores,Manhattan,1981-04-11T00:00:00,2,2004,2,55
+0,201938,Jonny Flynn,Syracuse,1989-02-06T00:00:00,4,2009,1,6
+0,201814,Gary Forbes,Massachusetts,1985-02-25T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2228,Alton Ford,Houston,1981-05-29T00:00:00,4,2001,2,50
+0,101213,Sharrod Ford,Clemson,1982-01-09T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,2551,T.J. Ford,Texas-Austin,1983-03-24T00:00:00,8,2003,1,8
+0,1630235,Trent Forrest,Florida State,1998-06-12T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2218,Joseph Forte,North Carolina,1981-03-23T00:00:00,3,2001,1,21
+0,2238,Antonis Fotsis,Panathinaikos,1981-04-01T00:00:00,1,2001,2,47
+0,200751,Randy Foye,Villanova,1983-09-24T00:00:00,12,2006,1,7
+0,203479,Jamaal Franklin,San Diego State,1991-07-21T00:00:00,3,2013,2,41
+0,1628982,Melvin Frazier,Tulane,1996-08-30T00:00:00,4,2018,2,35
+0,1626187,Michael Frazier II,Florida,1994-03-08T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2782,Matt Freije,Vanderbilt,1981-10-02T00:00:00,3,2004,2,53
+0,101112,Channing Frye,Arizona,1983-05-17T00:00:00,14,2005,1,8
+0,1628365,Markelle Fultz,Washington,1998-05-29T00:00:00,5,2017,1,1
+0,1629655,Daniel Gafford,Arkansas,1998-10-01T00:00:00,3,2019,2,38
+0,101184,Deng Gai,Fairfield,1982-03-22T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,101128,Francisco Garcia,Louisville,1981-12-31T00:00:00,10,2005,1,23
+0,1629636,Darius Garland,Vanderbilt,2000-01-26T00:00:00,3,2019,1,5
+0,1630568,Luka Garza,Iowa,1998-12-27T00:00:00,1,2021,2,52
+0,200752,Rudy Gay,Connecticut,1986-08-17T00:00:00,16,2006,1,8
+0,1627771,Michael Gbinije,Syracuse,1992-06-05T00:00:00,2,2016,2,49
+0,202331,Paul George,Fresno State,1990-05-02T00:00:00,12,2010,1,10
+0,201959,Taj Gibson,USC,1985-06-24T00:00:00,14,2009,1,26
+0,201592,J.R. Giddens,New Mexico,1985-02-13T00:00:00,3,2008,1,30
+0,1628983,Shai Gilgeous-Alexander,Kentucky,1998-07-12T00:00:00,4,2018,1,11
+0,2109,Eddie Gill,Weber State,1978-08-16T00:00:00,8,Undrafted,Undrafted,Undrafted
+0,203497,Rudy Gobert,Cholet,1992-06-26T00:00:00,9,2013,1,27
+0,101155,Ryan Gomes,Providence,1982-09-01T00:00:00,8,2005,2,50
+0,2400,Drew Gooden,Kansas,1981-09-24T00:00:00,15,2002,1,4
+0,203462,Archie Goodwin,Kentucky,1994-08-17T00:00:00,5,2013,1,29
+0,203932,Aaron Gordon,Arizona,1995-09-16T00:00:00,8,2014,1,4
+0,2732,Ben Gordon,Connecticut,1983-04-04T00:00:00,12,2004,1,3
+0,204079,Drew Gordon,New Mexico,1990-07-12T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,201569,Eric Gordon,Indiana,1988-12-25T00:00:00,14,2008,1,7
+0,101162,Marcin Gortat,RheinEnergie Cologne,1984-02-17T00:00:00,12,2005,2,57
+0,202726,Andrew Goudelock,College of Charleston,1988-12-07T00:00:00,4,2011,2,46
+0,101121,Joey Graham,Oklahoma State,1982-06-11T00:00:00,7,2005,1,16
+0,1626203,Treveon Graham,Virginia Commonwealth,1993-10-28T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,101122,Danny Granger,New Mexico,1983-04-20T00:00:00,11,2005,1,17
+0,203924,Jerami Grant,Syracuse,1994-03-12T00:00:00,8,2014,2,39
+0,1626170,Jerian Grant,Notre Dame,1992-10-09T00:00:00,6,2015,1,19
+0,201189,Aaron Gray,Pittsburgh,1984-12-07T00:00:00,7,2007,2,49
+0,201980,Danny Green,North Carolina,1987-06-22T00:00:00,13,2009,2,46
+0,203110,Draymond Green,Michigan State,1990-03-04T00:00:00,10,2012,2,35
+0,203475,Erick Green,Virginia Tech,1991-05-09T00:00:00,2,2013,2,46
+0,101123,Gerald Green,No College,1986-01-26T00:00:00,13,2005,1,18
+0,203210,JaMychal Green,Alabama,1990-06-21T00:00:00,8,Undrafted,Undrafted,Undrafted
+0,1630224,Jalen Green,NBA G League Ignite,2002-02-09T00:00:00,1,2021,1,2
+0,201145,Jeff Green,Georgetown,1986-08-28T00:00:00,14,2007,1,5
+0,1630182,Josh Green,Arizona,2000-11-16T00:00:00,2,2020,1,18
+0,201192,Taurean Green,Florida,1986-11-28T00:00:00,1,2007,2,52
+0,2584,Willie Green,Detroit,1981-07-28T00:00:00,12,2003,2,41
+0,201590,Donte Greene,Syracuse,1988-02-21T00:00:00,6,2008,1,28
+0,2696,Lynn Greer,Temple,1979-10-23T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,201933,Blake Griffin,Oklahoma,1989-03-16T00:00:00,12,2009,1,1
+0,2204,Eddie Griffin,Seton Hall,1982-05-30T00:00:00,5,2001,1,7
+0,1629656,Quentin Grimes,Houston,2000-05-08T00:00:00,1,2021,1,25
+0,101219,Anthony Grundy,North Carolina State,1979-04-15T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1629657,Kyle Guy,Virginia,1997-08-11T00:00:00,3,2019,2,55
+0,2062,A.J. Guyton,Indiana,1978-02-12T00:00:00,4,2000,2,32
+0,1630204,Ashton Hagans,Kentucky,1999-07-08T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,201612,Malik Hairston,Oregon,1987-02-23T00:00:00,3,2008,2,48
+0,2409,Marcus Haislip,Tennessee,1980-12-22T00:00:00,4,2002,1,13
+0,1628985,Devon Hall,Virginia,1995-07-07T00:00:00,2,2018,2,53
+0,1627772,Daniel Hamilton,UCONN,1995-08-08T00:00:00,3,2016,2,56
+0,202706,Jordan Hamilton,Texas-Austin,1990-10-06T00:00:00,6,2011,1,26
+0,203120,Justin Hamilton,Louisiana State,1990-04-01T00:00:00,4,2012,2,45
+0,201946,Tyler Hansbrough,North Carolina,1985-11-03T00:00:00,8,2009,1,13
+0,2580,Travis Hansen,Brigham Young,1978-04-15T00:00:00,2,2003,2,37
+0,202376,Luke Harangody,Notre Dame,1988-01-02T00:00:00,3,2010,2,52
+0,203501,Tim Hardaway Jr.,Michigan,1992-03-16T00:00:00,9,2013,1,24
+0,201935,James Harden,Arizona State,1989-08-26T00:00:00,13,2009,1,3
+0,203090,Maurice Harkless,St. John's,1993-05-11T00:00:00,10,2012,1,15
+0,1629607,Jared Harper,Auburn,1997-09-14T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,202712,Justin Harper,Richmond,1989-08-30T00:00:00,3,2011,2,32
+0,1626149,Montrezl Harrell,Louisville,1994-01-26T00:00:00,7,2015,2,32
+0,2734,Devin Harris,Wisconsin,1983-02-27T00:00:00,16,2004,1,5
+0,203914,Gary Harris,Michigan State,1994-09-14T00:00:00,8,2014,1,19
+0,1630223,Jalen Harris,Nevada,1998-08-14T00:00:00,1,2020,2,59
+0,203925,Joe Harris,Virginia,1991-09-06T00:00:00,8,2014,2,33
+0,202412,Manny Harris,Michigan,1989-09-21T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,202699,Tobias Harris,Tennessee,1992-07-15T00:00:00,11,2011,1,19
+0,1626151,Aaron Harrison,Kentucky,1994-10-28T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1626150,Andrew Harrison,Kentucky,1994-10-28T00:00:00,4,2015,2,44
+0,2078,Jason Hart,Syracuse,1978-04-29T00:00:00,10,2000,2,49
+0,1628404,Josh Hart,Villanova,1995-03-06T00:00:00,5,2017,1,30
+0,2051,Donnell Harvey,Florida,1980-08-26T00:00:00,6,2000,1,22
+0,2617,Udonis Haslem,Florida,1980-06-09T00:00:00,19,Undrafted,Undrafted,Undrafted
+0,2239,Trenton Hassell,Austin Peay,1979-03-04T00:00:00,10,2001,2,29
+0,2213,Kirk Haston,Indiana,1979-03-10T00:00:00,3,2001,1,16
+0,1630573,Sam Hauser,Virginia,1997-12-08T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,201150,Spencer Hawes,Washington,1988-04-28T00:00:00,11,2007,1,10
+0,1629637,Jaxson Hayes,Texas-Austin,2000-05-23T00:00:00,3,2019,1,8
+0,1628502,Nigel Hayes,Wisconsin,1994-12-16T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,202330,Gordon Hayward,Butler,1990-03-23T00:00:00,12,2010,1,9
+0,202351,Lazar Hayward,Marquette,1986-11-26T00:00:00,4,2010,1,30
+0,2217,Brendan Haywood,North Carolina,1979-11-27T00:00:00,13,2001,1,20
+0,101129,Luther Head,Illinois,1982-11-26T00:00:00,6,2005,1,24
+0,76993,Gerald Henderson,Virginia Commonwealth,1956-01-16T00:00:00,13,1978,3,64
+0,201945,Gerald Henderson,Duke,1987-12-09T00:00:00,9,2009,1,12
+0,1630565,Aaron Henry,Michigan State,1999-08-30T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,202333,Xavier Henry,Kansas,1991-03-15T00:00:00,6,2010,1,12
+0,203089,John Henson,North Carolina,1990-12-28T00:00:00,9,2012,1,14
+0,1629608,Dewan Hernandez,Miami (FL),1996-12-09T00:00:00,2,2019,2,59
+0,1629639,Tyler Herro,Kentucky,2000-01-20T00:00:00,3,2019,1,13
+0,1628987,Kevin Hervey,Texas-Arlington,1996-07-09T00:00:00,2,2018,2,57
+0,1628439,Isaiah Hicks,North Carolina,1994-07-24T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1627741,Buddy Hield,Oklahoma,1992-12-17T00:00:00,6,2016,1,6
+0,201588,George Hill,Indiana-Purdue Indianapolis,1986-05-04T00:00:00,14,2008,1,26
+0,201195,Herbert Hill,Providence,1984-10-01T00:00:00,1,2007,2,55
+0,201941,Jordan Hill,Arizona,1987-07-27T00:00:00,9,2009,1,8
+0,203524,Solomon Hill,Arizona,1991-03-18T00:00:00,9,2013,1,23
+0,2550,Kirk Hinrich,Kansas,1981-01-02T00:00:00,14,2003,1,7
+0,202359,Darington Hobson,New Mexico,1987-09-29T00:00:00,1,2010,2,37
+0,101125,Julius Hodge,North Carolina State,1983-11-18T00:00:00,3,2005,1,20
+0,2450,Randy Holcomb,San Diego State,1979-08-08T00:00:00,1,2002,2,56
+0,1628988,Aaron Holiday,UCLA,1996-09-30T00:00:00,4,2018,1,23
+0,201950,Jrue Holiday,UCLA,1990-06-12T00:00:00,13,2009,1,17
+0,1626178,Rondae Hollis-Jefferson,Arizona,1995-01-03T00:00:00,7,2015,1,23
+0,1626158,Richaun Holmes,Bowling Green,1993-10-15T00:00:00,7,2015,2,37
+0,202715,Tyler Honeycutt,UCLA,1990-07-15T00:00:00,2,2011,2,35
+0,203918,Rodney Hood,Duke,1992-10-20T00:00:00,8,2014,1,23
+0,203816,Scotty Hopson,Tennessee,1989-08-08T00:00:00,3,2011,0,0
+0,201143,Al Horford,Florida,1986-06-03T00:00:00,15,2007,1,3
+0,1629659,Talen Horton-Tucker,Iowa State,2000-11-25T00:00:00,3,2019,2,46
+0,2067,Eddie House,Arizona State,1978-05-14T00:00:00,12,2000,2,37
+0,2730,Dwight Howard,SW Atlanta Christian Academy (GA),1985-12-08T00:00:00,18,2004,1,1
+0,2572,Josh Howard,Wake Forest,1980-04-28T00:00:00,10,2003,1,29
+0,1630210,Markus Howard,Marquette,1999-03-03T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,201991,Lester Hudson,Tennessee-Martin,1984-08-07T00:00:00,5,2009,2,58
+0,1628989,Kevin Huerter,Maryland,1998-08-27T00:00:00,4,2018,1,19
+0,1630190,Elijah Hughes,Syracuse,1998-03-10T00:00:00,2,2020,2,39
+0,203133,Robbie Hummel,Purdue,1989-03-08T00:00:00,3,2012,2,58
+0,2415,Ryan Humphrey,Notre Dame,1979-07-24T00:00:00,4,2002,1,19
+0,2743,Kris Humphries,Minnesota,1985-02-06T00:00:00,14,2004,1,14
+0,2599,Brandon Hunter,Ohio,1980-11-24T00:00:00,3,2003,2,56
+0,1629631,De'Andre Hunter,Virginia,1997-12-02T00:00:00,3,2019,1,4
+0,201629,Othello Hunter,Ohio State,1986-05-28T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2212,Steven Hunter,DePaul,1981-10-31T00:00:00,9,2001,1,15
+0,1630538,Bones Hyland,Virginia Commonwealth,2000-09-14T00:00:00,1,2021,1,26
+0,2738,Andre Iguodala,Arizona,1984-01-28T00:00:00,18,2004,1,9
+0,101141,Ersan Ilyasova,                                   ,1987-05-15T00:00:00,14,2005,2,36
+0,204060,Joe Ingles,Maccabi Tel Aviv,1987-10-02T00:00:00,8,Undrafted,Undrafted,Undrafted
+0,202681,Kyrie Irving,Duke,1992-03-23T00:00:00,11,2011,1,1
+0,101127,Jarrett Jack,Georgia Tech,1983-10-28T00:00:00,14,2005,1,22
+0,201616,Darnell Jackson,Kansas,1985-11-07T00:00:00,4,2008,2,52
+0,1627743,Demetrius Jackson,Notre Dame,1994-09-07T00:00:00,4,2016,2,45
+0,1628402,Frank Jackson,Duke,1998-05-04T00:00:00,4,2017,2,31
+0,1630543,Isaiah Jackson,Kentucky,2002-01-10T00:00:00,1,2021,1,22
+0,1114,Jaren Jackson,Georgetown,1967-10-27T00:00:00,12,Undrafted,Undrafted,Undrafted
+0,1628382,Justin Jackson,North Carolina,1995-03-28T00:00:00,5,2017,1,15
+0,2739,Luke Jackson,Oregon,1981-11-06T00:00:00,5,2004,1,10
+0,203510,Pierre Jackson,Baylor,1991-08-29T00:00:00,1,2013,2,42
+0,203108,Bernard James,Florida State,1985-02-07T00:00:00,3,2012,2,33
+0,202345,Damion James,Texas-Austin,1987-10-07T00:00:00,4,2010,1,24
+0,2544,LeBron James,St. Vincent-St. Mary HS (OH),1984-12-30T00:00:00,19,2003,1,1
+0,2060,Marko Jaric,Virtus Bologna,1978-12-10T00:00:00,8,2000,2,30
+0,2744,Al Jefferson,Prentiss HS (MS),1985-01-04T00:00:00,14,2004,1,15
+0,203928,Cory Jefferson,Baylor,1990-12-26T00:00:00,3,2014,2,60
+0,2210,Richard Jefferson,Arizona,1980-06-21T00:00:00,18,2001,1,13
+0,1629610,DaQuan Jeffries,Tulsa,1997-08-30T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2407,Jared Jeffries,Indiana,1981-11-25T00:00:00,12,2002,1,11
+0,202724,Charles Jenkins,Hofstra,1989-02-28T00:00:00,3,2011,2,44
+0,2798,Horace Jenkins,William Paterson,1974-10-14T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,203098,John Jenkins,Vanderbilt,1991-03-06T00:00:00,7,2012,1,23
+0,1629660,Ty Jerome,Virginia,1997-07-08T00:00:00,3,2019,1,24
+0,203511,Grant Jerrett,Arizona,1993-07-08T00:00:00,2,2013,2,40
+0,1630198,Isaiah Joe,Arkansas,1999-07-02T00:00:00,2,2020,2,49
+0,2639,Britton Johnsen,Utah,1979-07-08T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1628993,Alize Johnson,Missouri State,1996-04-22T00:00:00,4,2018,2,50
+0,202356,Armon Johnson,Nevada-Reno,1989-02-23T00:00:00,3,2010,2,34
+0,1627744,Brice Johnson,North Carolina,1994-06-27T00:00:00,2,2016,1,25
+0,1629661,Cameron Johnson,North Carolina,1996-03-03T00:00:00,3,2019,1,11
+0,1626177,Dakari Johnson,Kentucky,1995-09-22T00:00:00,1,2015,2,48
+0,77139,David Johnson,Huntington,1921-12-06T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,1630525,David Johnson,Louisville,2001-02-26T00:00:00,1,2021,2,47
+0,202707,JaJuan Johnson,Purdue,1989-02-08T00:00:00,2,2011,1,27
+0,1630552,Jalen Johnson,Duke,2001-12-18T00:00:00,1,2021,1,20
+0,201949,James Johnson,Wake Forest,1987-02-20T00:00:00,13,2009,1,16
+0,2207,Joe Johnson,Arkansas,1981-06-29T00:00:00,18,2001,1,10
+0,1629640,Keldon Johnson,Kentucky,1999-10-11T00:00:00,3,2019,1,29
+0,2256,Ken Johnson,Ohio State,1978-02-01T00:00:00,2,2001,2,48
+0,77154,Ken Johnson,Michigan State,1962-11-07T00:00:00,1,1985,2,28
+0,1630553,Keon Johnson,Tennessee,2002-03-10T00:00:00,1,2021,1,21
+0,203910,Nick Johnson,Arizona,1992-12-22T00:00:00,2,2014,2,42
+0,203111,Orlando Johnson,Cal-Santa Barbara,1989-03-11T00:00:00,4,2012,2,36
+0,1626169,Stanley Johnson,Arizona,1996-05-29T00:00:00,7,2015,1,8
+0,201234,Trey Johnson,Jackson State,1984-08-30T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,202325,Wesley Johnson,Syracuse,1987-07-11T00:00:00,10,2010,1,4
+0,203130,Darius Johnson-Odom,Marquette,1989-09-28T00:00:00,3,2012,2,55
+0,77193,Bobby Jones,North Carolina,1951-12-18T00:00:00,10,1974,1,5
+0,200784,Bobby Jones,Washington,1984-01-09T00:00:00,3,2006,2,37
+0,1630637,Carlik Jones,Texas Legends,1997-12-23T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,2563,Dahntay Jones,Duke,1980-12-27T00:00:00,14,2003,1,20
+0,1627745,Damian Jones,Vanderbilt,1995-06-30T00:00:00,6,2016,1,30
+0,202346,Dominique Jones,South Florida,1988-10-15T00:00:00,3,2010,1,25
+0,101204,Dwayne Jones,St. Joseph's (PA),1983-06-09T00:00:00,7,Undrafted,Undrafted,Undrafted
+0,2410,Fred Jones,Oregon,1979-03-11T00:00:00,8,2002,1,14
+0,1630529,Herbert Jones,Alabama,1998-10-06T00:00:00,1,2021,2,35
+0,2592,James Jones,Miami,1980-10-04T00:00:00,15,2003,2,49
+0,1630539,Kai Jones,Texas-Austin,2001-01-19T00:00:00,1,2021,1,19
+0,203158,Kevin Jones,West Virginia,1989-08-25T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1630222,Mason Jones,Arkansas,1998-07-21T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,200780,Solomon Jones,South Florida,1984-07-16T00:00:00,8,2006,2,33
+0,203093,Terrence Jones,Kentucky,1992-01-09T00:00:00,6,2012,1,18
+0,1626145,Tyus Jones,Duke,1996-05-10T00:00:00,7,2015,1,24
+0,201599,DeAndre Jordan,Texas A&M,1988-07-21T00:00:00,14,2008,2,35
+0,202366,Jerome Jordan,Tulsa,1986-09-29T00:00:00,3,2010,2,44
+0,202709,Cory Joseph,Texas-Austin,1991-08-20T00:00:00,11,2011,1,29
+0,203126,Kris Joseph,Syracuse,1988-12-17T00:00:00,2,2012,2,51
+0,1629662,Mfiondu Kabengele,Florida State,1997-08-14T00:00:00,3,2019,1,27
+0,2549,Chris Kaman,Central Michigan,1982-04-28T00:00:00,14,2003,1,6
+0,1626163,Frank Kaminsky,Wisconsin,1993-04-04T00:00:00,7,2015,1,9
+0,202683,Enes Freedom,                                   ,1992-05-20T00:00:00,11,2011,1,3
+0,2574,Jason Kapono,UCLA,1981-02-02T00:00:00,9,2003,2,31
+0,201207,Coby Karl,Boise State,1983-06-08T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2435,Mario Kasun,Skyliners Frankfurt,1980-04-05T00:00:00,2,2002,2,40
+0,201619,Sasha Kaun,Kansas,1985-05-08T00:00:00,2,2008,2,56
+0,203527,Ryan Kelly,Duke,1991-04-09T00:00:00,5,2013,2,48
+0,1628379,Luke Kennard,Duke,1996-06-24T00:00:00,5,2017,1,12
+0,203077,Michael Kidd-Gilchrist,Kentucky,1993-09-26T00:00:00,9,2012,1,2
+0,203930,Sean Kilpatrick,Cincinnati,1990-01-06T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,77264,Bernard King,Tennessee,1956-12-04T00:00:00,14,1977,1,7
+0,77268,George King,University of Charleston,1928-08-16T00:00:00,6,1950,8,
+0,1628994,George King,Colorado,1994-01-15T00:00:00,2,2018,2,59
+0,1629663,Louis King,Oregon,1999-04-06T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,200814,Tarence Kinsey,South Carolina,1984-03-21T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,203945,Alex Kirk,New Mexico,1991-11-14T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1630557,Corey Kispert,Gonzaga,1999-03-03T00:00:00,1,2021,1,15
+0,2688,Brandin Knight,Pittsburgh,1981-12-16T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,202688,Brandon Knight,Kentucky,1991-12-02T00:00:00,9,2011,1,8
+0,1630233,Nathan Knight,William & Mary,1997-09-20T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2594,Kyle Korver,Creighton,1981-03-17T00:00:00,18,2003,2,51
+0,1630228,Jonathan Kuminga,NBA G League Ignite,2002-10-06T00:00:00,1,2021,1,7
+0,1628398,Kyle Kuzma,Utah,1995-07-24T00:00:00,5,2017,1,27
+0,203897,Zach LaVine,UCLA,1995-03-10T00:00:00,8,2014,1,13
+0,1627746,Skal Labissiere,Kentucky,1996-03-18T00:00:00,5,2016,1,28
+0,203117,Doron Lamb,Kentucky,1991-11-06T00:00:00,2,2012,2,42
+0,203087,Jeremy Lamb,Connecticut,1992-05-30T00:00:00,10,2012,1,12
+0,2253,Sean Lampley,California,1979-09-03T00:00:00,2,2001,2,44
+0,201171,Carl Landry,Purdue,1983-09-19T00:00:00,10,2007,2,31
+0,2591,James Lang,Central Park Christian HS (AL),1983-10-17T00:00:00,1,2003,2,48
+0,101247,Keith Langford,Kansas,1983-09-15T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1629641,Romeo Langford,Indiana,1999-10-25T00:00:00,3,2019,1,14
+0,2061,Dan Langhi,Vanderbilt,1977-11-28T00:00:00,4,2000,2,31
+0,203499,Shane Larkin,Miami,1992-10-02T00:00:00,4,2013,1,18
+0,201186,Stephane Lasme,Massachusetts,1982-12-17T00:00:00,2,2007,2,46
+0,201151,Acie Law,Texas A&M,1985-01-25T00:00:00,5,2007,1,11
+0,202371,Gani Lawal,Georgia Tech,1988-11-07T00:00:00,2,2010,2,46
+0,1630639,A.J. Lawson,South Carolina,2000-07-15T00:00:00,0,Undrafted,Undrafted,Undrafted
+0,201951,Ty Lawson,North Carolina,1987-11-03T00:00:00,10,2009,1,18
+0,1627774,Jake Layman,Maryland,1994-03-07T00:00:00,6,2016,2,47
+0,1627747,Caris LeVert,Michigan,1994-08-25T00:00:00,6,2016,1,20
+0,1629665,Jalen Lecque,Brewster Academy (NH),2000-06-13T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,203495,Ricky Ledo,Providence,1992-09-10T00:00:00,2,2013,2,43
+0,101135,David Lee,Florida,1983-04-29T00:00:00,13,2005,1,30
+0,202723,Malcolm Lee,UCLA,1990-05-22T00:00:00,3,2011,2,43
+0,203458,Alex Len,Maryland,1993-06-16T00:00:00,9,2013,1,5
+0,202695,Kawhi Leonard,San Diego State,1991-06-29T00:00:00,10,2011,1,15
+0,203086,Meyers Leonard,Illinois,1992-02-27T00:00:00,9,2012,1,11
+0,202727,Travis Leslie,Georgia,1990-03-29T00:00:00,2,2011,2,47
+0,202720,Jon Leuer,Wisconsin,1989-05-14T00:00:00,9,2011,2,40
+0,1630575,Scottie Lewis,Florida,2000-03-12T00:00:00,1,2021,2,56
+0,202732,DeAndre Liggins,Kentucky,1988-03-31T00:00:00,6,2011,2,53
+0,203081,Damian Lillard,Weber State,1990-07-15T00:00:00,10,2012,1,6
+0,1629642,Nassir Little,North Carolina,2000-02-11T00:00:00,3,2019,1,25
+0,1630587,Isaiah Livers,Michigan,1998-07-28T00:00:00,1,2021,2,42
+0,2733,Shaun Livingston,No College,1985-09-11T00:00:00,16,2004,1,4
+0,1626172,Kevon Looney,UCLA,1996-02-06T00:00:00,7,2015,1,30
+0,201572,Brook Lopez,Stanford,1988-04-01T00:00:00,14,2008,1,10
+0,201567,Kevin Love,UCLA,1988-09-07T00:00:00,14,2008,1,5
+0,101249,John Lucas III,Oklahoma State,1982-11-21T00:00:00,8,Undrafted,Undrafted,Undrafted
+0,1628399,Tyler Lydon,Syracuse,1996-04-09T00:00:00,3,2017,1,24
+0,1626168,Trey Lyles,Kentucky,1995-11-05T00:00:00,7,2015,1,12
+0,203159,Scott Machado,Iona,1990-06-08T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,202714,Shelvin Mack,Butler,1990-04-22T00:00:00,9,2011,2,34
+0,2432,Tito Maddox,Fresno State,1981-06-08T00:00:00,2,2002,2,37
+0,2058,Mark Madsen,Stanford,1976-01-28T00:00:00,10,2000,1,29
+0,1627748,Thon Maker,Athlete Institute Prep,1997-02-25T00:00:00,5,2016,1,10
+0,1630177,Theo Maledon,Asvel,2001-06-12T00:00:00,2,2020,2,34
+0,1630572,Sandro Mamukelashvili,Seton Hall,1999-05-23T00:00:00,1,2021,2,54
+0,1630211,Karim Mane,Vanier,2000-05-16T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1629611,Terance Mann,Florida State,1996-10-18T00:00:00,3,2019,2,48
+0,1630544,Tre Mann,Florida,2001-02-03T00:00:00,1,2021,1,18
+0,203906,Devyn Marble,Iowa,1992-09-21T00:00:00,3,2014,2,56
+0,203088,Kendall Marshall,North Carolina,1991-08-19T00:00:00,5,2012,1,13
+0,1630230,Naji Marshall,Xavier,1998-01-24T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,101185,Rawle Marshall,Oakland,1982-02-20T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1628997,Caleb Martin,Nevada-Reno,1995-09-28T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,201858,Cartier Martin,Kansas State,1984-11-20T00:00:00,8,Undrafted,Undrafted,Undrafted
+0,1628998,Cody Martin,Nevada-Reno,1995-09-28T00:00:00,3,2019,2,36
+0,1626185,Jarell Martin,Louisiana State,1994-05-24T00:00:00,5,2015,1,25
+0,1628412,Frank Mason III,Kansas,1994-04-03T00:00:00,5,2017,2,34
+0,1628999,Yante Maten,Georgia,1996-08-14T00:00:00,2,2018,,
+0,101131,Jason Maxiell,Cincinnati,1983-02-18T00:00:00,10,2005,1,26
+0,101118,Sean May,North Carolina,1984-04-04T00:00:00,5,2005,1,13
+0,201953,Eric Maynor,Va Commonwealth,1987-06-11T00:00:00,5,2009,1,20
+0,201564,O.J. Mayo,Southern California,1987-11-05T00:00:00,9,2008,1,3
+0,1630219,Skylar Mays,Louisiana State,1997-09-05T00:00:00,2,2020,2,50
+0,201601,Luc Mbah a Moute,UCLA,1986-09-09T00:00:00,13,2008,2,37
+0,1630540,Miles McBride,West Virginia,2000-09-08T00:00:00,1,2021,2,36
+0,203492,Ray McCallum,Detroit,1991-06-12T00:00:00,4,2013,2,36
+0,101119,Rashad McCants,North Carolina,1984-09-25T00:00:00,5,2005,1,14
+0,1627775,Patrick McCaw,UNLV,1995-10-25T00:00:00,5,2016,2,38
+0,2082,Dan McClintock,Northern Arizona,1977-04-19T00:00:00,1,2000,2,53
+0,203468,CJ McCollum,Lehigh,1991-09-19T00:00:00,9,2013,1,10
+0,200840,Chris McCray,Maryland,1984-05-27T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1626191,Chris McCullough,Syracuse,1995-02-05T00:00:00,4,2015,1,29
+0,1629667,Jalen McDaniels,San Diego State,1998-01-31T00:00:00,3,2019,2,52
+0,203926,Doug McDermott,Creighton,1992-01-03T00:00:00,8,2014,1,11
+0,200829,Ivan McFarlin,Oklahoma State,1982-04-26T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,201580,JaVale McGee,Nevada-Reno,1988-01-19T00:00:00,14,2008,1,18
+0,201187,Dominic McGuire,Fresno State,1985-10-20T00:00:00,7,2007,2,47
+0,203463,Ben McLemore,Kansas,1993-02-11T00:00:00,9,2013,1,7
+0,202077,Jerel McNeal,Marquette,1987-06-01T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,203895,Jordan McRae,Tennessee,1991-03-28T00:00:00,5,2014,2,58
+0,201177,Josh McRoberts,Duke,1987-02-28T00:00:00,11,2007,2,37
+0,201975,Jodie Meeks,Kentucky,1987-08-21T00:00:00,11,2009,2,41
+0,203097,Fab Melo,Syracuse,1990-06-20T00:00:00,2,2012,1,22
+0,200822,Pops Mensah-Bonsu,George Washington,1983-09-07T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,1629002,Chimezie Metu,Southern California,1997-03-22T00:00:00,4,2018,2,49
+0,1626175,Jordan Mickey,Louisiana State,1994-07-09T00:00:00,4,2015,2,33
+0,203114,Khris Middleton,Texas A&M,1991-08-12T00:00:00,10,2012,2,39
+0,101223,Aaron Miles,Kansas,1983-04-13T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2545,Darko Milicic,Hemoform,1985-06-20T00:00:00,10,2003,1,2
+0,203121,Darius Miller,Kentucky,1990-03-21T00:00:00,6,2012,2,46
+0,203113,Quincy Miller,Baylor,1992-11-18T00:00:00,4,2012,2,38
+0,201988,Patty Mills,St.Mary's College of California,1988-08-11T00:00:00,13,2009,2,55
+0,200794,Paul Millsap,Louisiana Tech,1985-02-10T00:00:00,16,2006,2,47
+0,1629003,Shake Milton,Southern Methodist,1996-09-26T00:00:00,4,2018,2,54
+0,1630558,Davion Mitchell,Baylor,1998-09-05T00:00:00,1,2021,1,9
+0,1628378,Donovan Mitchell,Louisville,1996-09-07T00:00:00,5,2017,1,13
+0,203183,Tony Mitchell,Alabama,1989-08-07T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,203502,Tony Mitchell,North Texas,1992-04-07T00:00:00,3,2013,2,37
+0,1630596,Evan Mobley,Southern California,2001-06-18T00:00:00,1,2021,1,3
+0,202328,Greg Monroe,Georgetown,1990-06-04T00:00:00,10,2010,1,7
+0,1630541,Moses Moody,Arkansas,2002-05-31T00:00:00,1,2021,1,14
+0,200081,Jamario Moon,Meridian CC,1980-06-13T00:00:00,6,Undrafted,Undrafted,Undrafted
+0,202734,E'Twaun Moore,Purdue,1989-02-25T00:00:00,11,2011,2,55
+0,1629630,Ja Morant,Murray State,1999-08-10T00:00:00,3,2019,1,2
+0,202721,Darius Morris,Michigan,1991-01-03T00:00:00,5,2011,2,41
+0,202693,Markieff Morris,Kansas,1989-09-02T00:00:00,11,2011,1,13
+0,1628420,Monte Morris,Iowa State,1995-06-27T00:00:00,5,2017,2,51
+0,200747,Adam Morrison,Gonzaga,1984-07-19T00:00:00,4,2006,1,3
+0,1628405,Johnathan Motley,Baylor,1995-05-04T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,203102,Arnett Moultrie,Mississippi State,1990-11-18T00:00:00,2,2012,1,27
+0,203498,Shabazz Muhammad,UCLA,1992-11-13T00:00:00,6,2013,1,14
+0,201957,Byron Mullens,Ohio State,1989-02-14T00:00:00,5,2009,1,24
+0,203513,Erik Murphy,Florida,1990-10-26T00:00:00,1,2013,2,49
+0,203122,Kevin Murphy,Tennessee Tech,1990-03-06T00:00:00,2,2012,2,47
+0,2211,Troy Murphy,Notre Dame,1980-05-02T00:00:00,12,2001,1,14
+0,1630530,Trey Murphy III,Virginia,2000-06-18T00:00:00,1,2021,1,17
+0,203488,Mike Muscala,Bucknell,1991-07-01T00:00:00,9,2013,2,44
+0,1629004,Svi Mykhailiuk,Kansas,1997-06-10T00:00:00,4,2018,2,47
+0,2059,Eduardo Najera,Oklahoma,1976-07-11T00:00:00,13,2000,2,38
+0,77685,Larry Nance,Clemson,1959-02-12T00:00:00,13,1981,1,20
+0,203894,Shabazz Napier,Connecticut,1991-07-14T00:00:00,7,2014,1,24
+0,201634,DeMarcus Nelson,Duke,1985-11-02T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2749,Jameer Nelson,St. Joseph's (PA),1982-02-09T00:00:00,15,2004,1,20
+0,1629005,Malik Newman,Kansas,1997-02-21T00:00:00,2,2018,,
+0,1627777,Georges Niang,Iowa State,1993-06-17T00:00:00,6,2016,2,50
+0,201193,Demetris Nichols,Syracuse,1984-09-04T00:00:00,3,2007,2,53
+0,203094,Andrew Nicholson,St. Bonaventure,1989-12-08T00:00:00,6,2012,1,19
+0,1630227,Daishen Nix,NBA G League Ignite,2002-02-13T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1630192,Zeke Nnaji,Arizona,2001-01-09T00:00:00,2,2020,1,22
+0,201149,Joakim Noah,Florida,1985-02-25T00:00:00,14,2007,1,9
+0,200786,David Noel,North Carolina,1984-02-27T00:00:00,2,2006,2,39
+0,203457,Nerlens Noel,Kentucky,1994-04-10T00:00:00,8,2013,1,6
+0,200779,Steve Novak,Marquette,1983-06-13T00:00:00,11,2006,2,32
+0,1629669,Jaylen Nowell,Washington,1999-07-09T00:00:00,3,2019,2,43
+0,1629670,Jordan Nwora,Louisville,1998-09-09T00:00:00,2,2020,2,45
+0,200753,Patrick O'Bryant,Bradley,1986-06-20T00:00:00,5,2006,1,9
+0,203124,Kyle O'Quinn,Norfolk State,1990-03-26T00:00:00,9,2012,2,49
+0,201141,Greg Oden,Ohio State,1988-01-22T00:00:00,4,2007,1,1
+0,1628400,Semi Ojeleye,Southern Methodist,1994-12-05T00:00:00,5,2017,2,37
+0,2731,Emeka Okafor,Connecticut,1982-09-28T00:00:00,11,2004,1,2
+0,1629643,Chuma Okeke,Auburn,1998-08-18T00:00:00,2,2019,1,16
+0,1629006,Josh Okogie,Georgia Tech,1998-09-01T00:00:00,4,2018,1,20
+0,1629644,KZ Okpala,Stanford,1999-04-28T00:00:00,3,2019,2,32
+0,203506,Victor Oladipo,Indiana,1992-05-04T00:00:00,9,2013,1,2
+0,1628419,Cameron Oliver,Nevada,1996-07-11T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,203482,Kelly Olynyk,Gonzaga,1991-04-19T00:00:00,9,2013,1,13
+0,1629671,Miye Oni,Yale,1997-08-04T00:00:00,3,2019,2,58
+0,1627778,Chinanu Onuaku,Louisville,1996-11-01T00:00:00,3,2016,2,37
+0,202350,Daniel Orton,Kentucky,1990-08-06T00:00:00,3,2010,1,29
+0,2442,Chris Owens,Texas-Austin,1979-03-01T00:00:00,2,2002,2,47
+0,1627779,Marcus Paige,North Carolina,1993-09-11T00:00:00,2,2016,2,55
+0,2457,Jannero Pargo,Arkansas,1979-10-22T00:00:00,11,Undrafted,Undrafted,Undrafted
+0,202951,Jeremy Pargo,Gonzaga,1986-03-17T00:00:00,3,2009,0,0
+0,2470,Smush Parker,Fordham,1981-06-01T00:00:00,6,Undrafted,Undrafted,Undrafted
+0,202718,Chandler Parsons,Florida,1988-10-25T00:00:00,9,2011,2,38
+0,1629672,Eric Paschall,Villanova,1996-11-04T00:00:00,3,2019,2,41
+0,203934,Lamar Patterson,Pittsburgh,1991-08-12T00:00:00,2,2014,2,48
+0,202335,Patrick Patterson,Kentucky,1989-03-14T00:00:00,12,2010,1,14
+0,1628383,Justin Patton,Creighton,1997-06-14T00:00:00,4,2017,1,16
+0,203464,Brandon Paul,Illinois,1991-04-30T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,101108,Chris Paul,Wake Forest,1985-05-06T00:00:00,17,2005,1,4
+0,203940,Adreian Payne,Michigan State,1991-02-19T00:00:00,4,2014,1,15
+0,1626166,Cameron Payne,Murray State,1994-08-08T00:00:00,7,2015,1,14
+0,203901,Elfrid Payton,Louisana-Lafayette,1994-02-22T00:00:00,8,2014,1,10
+0,1627780,Gary Payton II,Oregon State,1992-12-01T00:00:00,6,Undrafted,Undrafted,Undrafted
+0,203658,Norvel Pelle,Iona,1993-02-03T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2632,Kirk Penney,Wisconsin,1980-11-23T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1629617,Reggie Perry,Mississippi State,2000-03-21T00:00:00,2,2020,2,57
+0,1628409,Alec Peters,Valparaiso,1995-04-13T00:00:00,1,2017,2,54
+0,1629033,Theo Pinson,North Carolina,1995-11-05T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,202354,Dexter Pittman,Texas-Austin,1988-03-02T00:00:00,4,2010,2,32
+0,203486,Mason Plumlee,Duke,1990-03-05T00:00:00,9,2013,1,22
+0,203101,Miles Plumlee,Duke,1988-09-01T00:00:00,8,2012,1,26
+0,2750,Pavel Podkolzin,Metis Varese,1985-01-15T00:00:00,2,2004,1,21
+0,1627751,Jakob Poeltl,Utah,1995-10-15T00:00:00,6,2016,1,9
+0,1629044,Shamorie Ponds,St. John's,1998-06-29T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1630582,Yves Pons,Tennessee,1999-05-07T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1629673,Jordan Poole,Michigan,1999-06-19T00:00:00,3,2019,1,28
+0,2084,Chris Porter,Auburn,1978-05-09T00:00:00,1,2000,2,55
+0,1629007,Jontay Porter,Missouri,1999-11-15T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1629645,Kevin Porter Jr.,Southern California,2000-05-04T00:00:00,3,2019,1,30
+0,1626171,Bobby Portis,Arkansas,1995-02-10T00:00:00,7,2015,1,22
+0,2068,Lavor Postell,St. John's,1978-02-26T00:00:00,4,2000,2,39
+0,203939,Dwight Powell,Stanford,1991-07-20T00:00:00,8,2014,2,45
+0,2694,Josh Powell,North Carolina State,1983-01-25T00:00:00,8,Undrafted,Undrafted,Undrafted
+0,1626181,Norman Powell,UCLA,1993-05-25T00:00:00,7,2015,2,46
+0,101232,Roger Powell,Illinois,1983-01-15T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,203515,Phil Pressey,Missouri,1991-02-17T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,1630554,Jason Preston,Ohio,1999-08-10T00:00:00,0,2021,2,33
+0,101179,Ronnie Price,Utah Valley,1983-06-21T00:00:00,13,Undrafted,Undrafted,Undrafted
+0,1630563,Joshua Primo,Alabama,2002-12-24T00:00:00,1,2021,1,12
+0,1627752,Taurean Prince,Baylor,1994-03-22T00:00:00,6,2016,1,12
+0,1629674,Neemias Queta,Utah State,1999-07-13T00:00:00,1,2021,2,39
+0,1630193,Immanuel Quickley,Kentucky,1999-06-17T00:00:00,2,2020,1,25
+0,200809,Chris Quinn,Notre Dame,1983-09-27T00:00:00,7,Undrafted,Undrafted,Undrafted
+0,1628397,Ivan Rabb,"University of California, Berkeley",1997-02-04T00:00:00,3,2017,2,35
+0,2080,Igor Rakocevic,Buducnost,1978-03-29T00:00:00,2,2000,2,51
+0,1630186,Jahmi'us Ramsey,Texas Tech,2001-06-09T00:00:00,2,2020,2,43
+0,1626184,Chasson Randle,Stanford,1993-02-05T00:00:00,5,2015,,
+0,203944,Julius Randle,Kentucky,1994-11-29T00:00:00,8,2014,1,7
+0,201576,Anthony Randolph,Louisiana State,1989-07-15T00:00:00,6,2008,1,14
+0,202360,Andy Rautins,Syracuse,1986-11-02T00:00:00,2,2010,2,38
+0,200810,Allan Ray,Villanova,1984-06-17T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1630559,Austin Reaves,Oklahoma,1998-05-29T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,2072,Michael Redd,Ohio State,1979-08-24T00:00:00,13,2000,2,43
+0,200755,JJ Redick,Duke,1984-06-24T00:00:00,16,2006,1,11
+0,1628432,Davon Reed,Miami,1995-06-11T00:00:00,3,2017,2,32
+0,1629675,Naz Reid,Louisiana State,1999-08-26T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2876,Jared Reiner,Iowa,1982-04-08T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,779,Glen Rice,Michigan,1967-05-28T00:00:00,15,1989,1,4
+0,203318,Glen Rice,Michigan,1991-01-01T00:00:00,2,2013,2,35
+0,201181,Chris Richard,Florida,1984-12-25T00:00:00,3,2007,2,41
+0,1630208,Nick Richards,Kentucky,1997-11-29T00:00:00,2,2020,2,42
+0,2202,Jason Richardson,Michigan State,1981-01-20T00:00:00,14,2001,1,5
+0,1627781,Malachi Richardson,Syracuse,1996-01-05T00:00:00,3,2016,1,22
+0,2369,Norman Richardson,Hofstra,1977-07-24T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2557,Luke Ridnour,Oregon,1981-02-13T00:00:00,12,2003,1,14
+0,1630203,Grant Riller,College of Charleston,1997-02-08T00:00:00,2,2020,2,56
+0,203085,Austin Rivers,Duke,1992-08-01T00:00:00,10,2012,1,10
+0,203460,Andre Roberson,Colorado,1991-12-04T00:00:00,7,2013,1,26
+0,101194,Anthony Roberson,Florida,1983-02-14T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,2121,Terrance Roberson,Fresno State,1976-12-30T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,203148,Brian Roberts,University of Dayton,1985-12-03T00:00:00,6,Undrafted,Undrafted,Undrafted
+0,101160,Lawrence Roberts,Mississippi State,1982-10-20T00:00:00,3,2005,2,55
+0,2774,Bernard Robinson,Michigan,1980-12-26T00:00:00,4,2004,2,45
+0,1628421,Devin Robinson,Florida,1995-03-07T00:00:00,3,2017,,
+0,1629010,Jerome Robinson,Boston College,1997-02-22T00:00:00,3,2018,1,13
+0,101126,Nate Robinson,Washington,1984-05-31T00:00:00,11,2005,1,21
+0,203080,Thomas Robinson,Kansas,1991-03-17T00:00:00,6,2012,1,5
+0,203922,Glenn Robinson III,Michigan,1994-01-08T00:00:00,7,2014,2,40
+0,1630526,Jeremiah Robinson-Earl,Villanova,2000-11-03T00:00:00,1,2021,2,32
+0,1629676,Isaiah Roby,Nebraska-Lincoln,1998-02-03T00:00:00,3,2019,2,45
+0,201565,Derrick Rose,Memphis,1988-10-04T00:00:00,13,2008,1,1
+0,203082,Terrence Ross,Washington,1991-02-05T00:00:00,10,2012,1,8
+0,200750,Brandon Roy,Washington,1984-07-23T00:00:00,6,2006,1,6
+0,1626179,Terry Rozier,Louisville,1994-03-17T00:00:00,7,2015,1,16
+0,201575,Brandon Rush,Kansas,1985-07-07T00:00:00,10,2008,1,13
+0,2416,Kareem Rush,Missouri,1980-10-30T00:00:00,7,2002,1,20
+0,2422,John Salmons,Miami,1979-12-12T00:00:00,13,2002,1,26
+0,1629677,Luka Samanic,                                   ,2000-01-09T00:00:00,3,2019,1,19
+0,2143,Pepe Sanchez,Temple,1977-05-08T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,202336,Larry Sanders,Va Commonwealth,1988-11-21T00:00:00,6,2010,1,15
+0,2219,Jeryl Sasser,Southern Methodist,1979-02-13T00:00:00,3,2001,1,22
+0,203107,Tomas Satoransky,FC Barcelona,1991-10-30T00:00:00,6,2012,2,32
+0,2261,Kenny Satterfield,Cincinnati,1981-04-10T00:00:00,3,2001,2,53
+0,2453,Predrag Savovic,Hawaii,1976-05-21T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2243,Brian Scalabrine,Southern California,1978-03-18T00:00:00,12,2001,2,34
+0,2637,Alex Scales,Oregon,1978-07-03T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,101195,Luke Schenscher,Georgia Tech,1981-12-31T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1629678,Admiral Schofield,Tennessee,1997-03-30T00:00:00,2,2019,2,42
+0,203471,Dennis Schroder,Braunschweig,1993-09-15T00:00:00,9,2013,1,17
+0,203118,Mike Scott,Virginia,1988-07-16T00:00:00,10,2012,2,43
+0,202729,Josh Selby,Kansas,1991-03-27T00:00:00,2,2011,2,49
+0,1627782,Wayne Selden,Kansas,1994-09-30T00:00:00,4,2016,,
+0,200754,Mouhamed Sene,Verviers-Pepinster,1986-05-12T00:00:00,4,2006,1,10
+0,201196,Ramon Sessions,Nevada-Reno,1986-04-11T00:00:00,12,2007,2,56
+0,1629012,Collin Sexton,Alabama,1999-01-04T00:00:00,4,2018,1,8
+0,201203,Mustafa Shakur,Arizona,1984-08-18T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1629013,Landry Shamet,Wichita State,1997-03-13T00:00:00,4,2018,1,26
+0,1630549,Day'Ron Sharpe,North Carolina,2001-11-06T00:00:00,1,2021,1,29
+0,1629621,Marial Shayok,Iowa State,1995-07-26T00:00:00,2,2019,2,54
+0,202697,Iman Shumpert,Georgia Tech,1990-06-26T00:00:00,10,2011,1,17
+0,1627783,Pascal Siakam,New Mexico State,1994-04-02T00:00:00,6,2016,1,27
+0,101134,Wayne Simien,Kansas,1983-03-09T00:00:00,3,2005,1,29
+0,2250,Bobby Simmons,DePaul,1980-06-02T00:00:00,11,2001,2,41
+0,200759,Cedric Simmons,North Carolina State,1986-01-03T00:00:00,4,2006,1,15
+0,1628424,Kobi Simmons,Arizona,1997-07-04T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1629014,Anfernee Simons,Edgewater HS (FL),1999-06-08T00:00:00,4,2018,1,24
+0,203156,Henry Sims,Georgetown,1990-03-27T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,1630579,Jericho Sims,Texas-Austin,1998-10-20T00:00:00,1,2021,2,58
+0,202713,Kyle Singler,Duke,1988-05-04T00:00:00,6,2011,2,33
+0,201606,Sean Singletary,Virginia,1985-09-06T00:00:00,2,2008,2,42
+0,202698,Chris Singleton,Florida State,1989-11-21T00:00:00,3,2011,1,18
+0,203491,Peyton Siva,Louisville,1990-10-24T00:00:00,1,2013,2,56
+0,2447,Tamar Slay,Marshall,1980-04-02T00:00:00,4,2002,2,53
+0,203935,Marcus Smart,Oklahoma State,1994-03-06T00:00:00,8,2014,1,6
+0,200783,Craig Smith,Boston College,1983-11-10T00:00:00,6,2006,2,36
+0,2074,Jabari Smith,Louisiana State,1977-02-12T00:00:00,5,2000,2,45
+0,1630188,Jalen Smith,Maryland,2000-03-16T00:00:00,2,2020,1,10
+0,201160,Jason Smith,Colorado State,1986-03-02T00:00:00,11,2007,1,20
+0,2746,Josh Smith,Oak Hill Academy (VA),1985-12-05T00:00:00,13,2004,1,17
+0,2065,Mike Smith,Louisiana-Monroe,1976-04-15T00:00:00,2,2000,2,35
+0,202701,Nolan Smith,Duke,1988-07-25T00:00:00,3,2011,1,21
+0,203893,Russ Smith,Louisville,1991-04-19T00:00:00,2,2014,2,47
+0,120,Steven Smith,Michigan State,1969-03-31T00:00:00,15,1991,1,5
+0,200848,Steven Smith,La Salle,1983-04-12T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,2604,Theron Smith,Ball State,1980-10-03T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1629015,Zhaire Smith,Texas Tech,1999-06-04T00:00:00,3,2018,1,16
+0,203503,Tony Snell,New Mexico,1991-11-10T00:00:00,9,2013,1,20
+0,2745,Kirk Snyder,Nevada-Reno,1983-06-05T00:00:00,5,2004,1,16
+0,2226,Will Solomon,Clemson,1978-07-20T00:00:00,2,2001,2,32
+0,2443,Darius Songaila,Wake Forest,1978-02-14T00:00:00,9,2002,2,49
+0,203480,James Southerland,Syracuse,1990-04-28T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,2776,Pape Sow,California State-Fullerton,1981-11-22T00:00:00,4,2004,2,47
+0,1629034,Ray Spalding,Louisville,1997-03-11T00:00:00,2,2018,2,56
+0,1629016,Omari Spellman,Villanova,1997-07-21T00:00:00,3,2018,1,30
+0,201168,Tiago Splitter,Baskonia,1985-01-01T00:00:00,8,2007,1,28
+0,1630531,Jaden Springer,Tennessee,2002-09-25T00:00:00,1,2021,1,28
+0,1630199,Cassius Stanley,Duke,1999-08-18T00:00:00,2,2020,2,54
+0,203917,Nik Stauskas,Michigan,1993-10-07T00:00:00,6,2014,1,8
+0,202362,Lance Stephenson,Cincinnati,1990-09-05T00:00:00,10,2010,2,40
+0,1630205,Lamar Stevens,Penn State,1997-07-09T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1630569,DJ Steward,Duke,2001-10-02T00:00:00,0,Undrafted,Undrafted,Undrafted
+0,1630191,Isaiah Stewart,Washington,2001-05-22T00:00:00,2,2020,1,16
+0,203950,Jarnell Stokes,Tennessee,1994-01-07T00:00:00,4,2014,2,35
+0,1627754,Diamond Stone,Maryland,1997-02-10T00:00:00,2,2016,2,40
+0,2405,Amar'e Stoudemire,Cypress Creek HS (FL),1982-11-16T00:00:00,15,2002,1,9
+0,201199,DJ Strawberry,Maryland,1985-06-15T00:00:00,2,2007,2,59
+0,201155,Rodney Stuckey,Eastern Washington,1986-04-21T00:00:00,10,2007,1,15
+0,203096,Jared Sullinger,Ohio State,1992-03-04T00:00:00,5,2012,1,21
+0,201969,DaJuan Summers,Georgetown,1988-01-24T00:00:00,5,2009,2,35
+0,1628410,Edmond Sumner,Xavier,1995-12-31T00:00:00,4,2017,2,52
+0,1628403,Caleb Swanigan,Purdue,1997-04-18T00:00:00,4,2017,1,26
+0,2552,Michael Sweetney,Georgetown,1982-10-25T00:00:00,5,2003,1,9
+0,1626208,Keifer Sykes,Wisc.-Green Bay,1993-12-30T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,101147,Chris Taft,Pittsburgh,1985-03-10T00:00:00,2,2005,2,42
+0,78299,Jeff Taylor,Texas Tech,1960-01-01T00:00:00,2,1982,2,42
+0,201966,Jermaine Taylor,Central Florida,1986-12-08T00:00:00,2,2009,2,32
+0,201446,Mike Taylor,Iowa State,1986-01-21T00:00:00,2,2008,2,55
+0,203116,Tyshawn Taylor,Kansas,1990-04-12T00:00:00,2,2012,2,41
+0,201952,Jeff Teague,Wake Forest,1988-06-10T00:00:00,13,2009,1,19
+0,203104,Marquis Teague,Kentucky,1993-02-28T00:00:00,3,2012,1,29
+0,1630179,Tyrell Terry,Stanford,2000-09-28T00:00:00,3,2020,2,31
+0,201934,Hasheem Thabeet,Connecticut,1987-02-16T00:00:00,5,2009,1,2
+0,203519,Adonis Thomas,Memphis,1993-03-25T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1630560,Cam Thomas,Louisiana State,2001-10-13T00:00:00,1,2021,1,27
+0,202738,Isaiah Thomas,Washington,1989-02-07T00:00:00,11,2011,2,60
+0,1629017,Khyri Thomas,Creighton,1996-05-08T00:00:00,4,2018,2,38
+0,202952,Malcolm Thomas,San Diego State,1988-11-08T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,200748,Tyrus Thomas,Louisiana State,1986-08-17T00:00:00,8,2006,1,4
+0,202717,Trey Thompkins,Georgia,1990-05-29T00:00:00,2,2011,2,37
+0,101159,Dijon Thompson,UCLA,1983-03-23T00:00:00,2,2005,2,54
+0,203138,Hollis Thompson,Georgetown,1991-04-03T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,202691,Klay Thompson,Washington State,1990-02-08T00:00:00,9,2011,1,11
+0,202684,Tristan Thompson,Texas-Austin,1991-03-13T00:00:00,11,2011,1,4
+0,1630550,JT Thor,Auburn,2002-08-26T00:00:00,1,2021,2,37
+0,201154,Al Thornton,Florida State,1983-12-07T00:00:00,5,2007,1,14
+0,201977,Marcus Thornton,Louisiana State,1987-06-05T00:00:00,8,2009,2,43
+0,1628414,Sindarius Thornwell,South Carolina,1994-11-15T00:00:00,5,2017,2,48
+0,1629681,Killian Tillie,Gonzaga,1998-03-05T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1630214,Xavier Tillman Sr.,Michigan State,1999-01-12T00:00:00,2,2020,2,35
+0,2224,Jamaal Tinsley,Iowa State,1978-02-28T00:00:00,11,2001,1,27
+0,1630225,Isaiah Todd,NBA G League Ignite,2001-10-17T00:00:00,1,2021,2,31
+0,201229,Anthony Tolliver,Creighton,1985-06-01T00:00:00,14,Undrafted,Undrafted,Undrafted
+0,718,Gary Trent,Ohio,1974-09-22T00:00:00,10,1995,1,11
+0,1629019,Allonzo Trier,Arizona,1996-01-17T00:00:00,2,2018,,
+0,101142,Ronny Turiaf,Gonzaga,1983-01-13T00:00:00,10,2005,2,37
+0,202323,Evan Turner,Ohio State,1988-10-27T00:00:00,11,2010,1,2
+0,1626167,Myles Turner,Texas-Austin,1996-03-24T00:00:00,7,2015,1,11
+0,202719,Jeremy Tyler,Tokyo Apache,1991-06-21T00:00:00,4,2011,2,39
+0,202327,Ekpe Udoh,Baylor,1987-05-20T00:00:00,8,2010,1,6
+0,2757,Beno Udrih,,1982-07-05T00:00:00,14,2004,1,28
+0,1627755,Tyler Ulis,Kentucky,1996-01-05T00:00:00,4,2016,2,34
+0,1627784,Jarrod Uthoff,Iowa,1993-05-19T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,201987,Robert Vaden,Alabama-Birmingham,1985-03-03T00:00:00,1,2009,2,54
+0,1627756,Denzel Valentine,Michigan State,1993-11-16T00:00:00,5,2016,1,14
+0,202363,Jarvis Varnado,Mississippi State,1988-03-01T00:00:00,2,2010,2,41
+0,202349,Greivis Vasquez,Maryland,1987-01-16T00:00:00,7,2010,1,28
+0,1626173,Rashad Vaughn,UNLV,1996-08-16T00:00:00,3,2015,1,17
+0,101111,Charlie Villanueva,Connecticut,1984-08-24T00:00:00,12,2005,1,7
+0,203943,Noah Vonleh,Indiana,1995-08-24T00:00:00,7,2014,1,9
+0,2761,Jackson Vroman,Iowa State,1981-06-06T00:00:00,2,2004,2,31
+0,202696,Nikola Vucevic,Southern California,1990-10-24T00:00:00,11,2011,1,16
+0,2756,Sasha Vujacic,Udine,1984-03-08T00:00:00,11,2004,1,27
+0,2548,Dwyane Wade,Marquette,1982-01-17T00:00:00,17,2003,1,5
+0,2402,Dajuan Wagner,Memphis,1983-02-04T00:00:00,4,2002,1,6
+0,1629021,Moritz Wagner,Michigan,1997-04-26T00:00:00,4,2018,1,25
+0,203079,Dion Waiters,Syracuse,1991-12-10T00:00:00,9,2012,1,4
+0,202689,Kemba Walker,Connecticut,1990-05-08T00:00:00,11,2011,1,9
+0,202322,John Wall,Kentucky,1990-09-06T00:00:00,10,2010,1,1
+0,2575,Luke Walton,Arizona,1980-03-28T00:00:00,11,2003,2,32
+0,1628476,Derrick Walton Jr.,Michigan,1995-04-03T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,203933,T.J. Warren,North Carolina State,1993-09-05T00:00:00,7,2014,1,14
+0,202378,Willie Warren,Oklahoma,1989-10-22T00:00:00,2,2010,2,54
+0,101124,Hakim Warrick,Syracuse,1982-07-08T00:00:00,8,2005,1,19
+0,200827,Darius Washington,Memphis,1985-12-06T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1629023,P.J. Washington,Kentucky,1998-08-23T00:00:00,3,2019,1,12
+0,1630613,Duane Washington Jr.,Ohio State,2000-03-24T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1629682,Tremont Waters,LSU,1998-01-10T00:00:00,3,2019,2,51
+0,1630570,Trendon Watford,Louisiana State,2000-11-09T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,201208,Darryl Watkins,Syracuse,1984-11-08T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2248,Earl Watson,UCLA,1979-06-12T00:00:00,13,2001,2,39
+0,1629683,Quinndary Weatherspoon,Mississippi State,1996-09-10T00:00:00,3,2019,2,49
+0,101110,Martell Webster,Seattle Preparatory HS (WA),1986-12-04T00:00:00,11,2005,1,6
+0,201603,Sonny Weems,Arkansas,1986-07-08T00:00:00,4,2008,2,39
+0,1629118,Thomas Welsh,UCLA,1996-02-03T00:00:00,2,2018,2,58
+0,2561,David West,Xavier,1980-08-29T00:00:00,16,2003,1,18
+0,2753,Delonte West,St. Joseph's (PA),1983-07-26T00:00:00,9,2004,1,24
+0,201566,Russell Westbrook,UCLA,1988-11-12T00:00:00,14,2008,1,4
+0,101156,Robert Whaley,Walsh,1982-04-16T00:00:00,1,2005,2,51
+0,1629632,Coby White,North Carolina,2000-02-16T00:00:00,3,2019,1,7
+0,1628401,Derrick White,Colorado,1994-07-02T00:00:00,5,2017,1,29
+0,2206,Rodney White,North Carolina-Charlotte,1980-06-28T00:00:00,5,2001,1,9
+0,203091,Royce White,Iowa State,1991-04-10T00:00:00,2,2012,1,16
+0,202358,Terrico White,Mississippi,1990-03-07T00:00:00,3,2010,2,36
+0,1627785,Isaiah Whitehead,Seton Hall,1995-03-08T00:00:00,3,2016,2,42
+0,202355,Hassan Whiteside,Marshall,1989-06-13T00:00:00,10,2010,2,33
+0,1630580,Joe Wieskamp,Iowa,1999-08-23T00:00:00,1,2021,2,41
+0,1630598,Aaron Wiggins,Maryland,1999-01-02T00:00:00,1,2021,2,55
+0,203912,C.J. Wilcox,Washington,1990-12-30T00:00:00,4,2014,1,28
+0,2404,Chris Wilcox,Maryland,1982-09-03T00:00:00,12,2002,1,8
+0,2863,Damien Wilkins,Georgia,1980-01-11T00:00:00,10,Undrafted,Undrafted,Undrafted
+0,1626210,Alan Williams,California-Santa Barbara,1993-01-28T00:00:00,5,Undrafted,Undrafted,Undrafted
+0,101114,Deron Williams,Illinois,1984-06-26T00:00:00,13,2005,1,3
+0,202682,Derrick Williams,Arizona,1991-05-25T00:00:00,7,2011,1,2
+0,677,Eric Williams,Providence,1972-07-17T00:00:00,12,1995,1,14
+0,2421,Frank Williams,Illinois,1980-02-25T00:00:00,4,2002,1,25
+0,1629684,Grant Williams,Tennessee,1998-11-30T00:00:00,3,2019,1,22
+0,101214,Jawad Williams,North Carolina,1983-02-19T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,2398,Jay Williams,Duke,1981-09-10T00:00:00,1,2002,1,2
+0,202716,Jordan Williams,Maryland,1990-10-11T00:00:00,2,2011,2,36
+0,200818,Justin Williams,Wyoming,1984-05-12T00:00:00,3,Undrafted,Undrafted,Undrafted
+0,1629026,Kenrich Williams,TCU,1994-12-02T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,200766,Marcus Williams,Connecticut,1985-12-03T00:00:00,5,2006,1,22
+0,201173,Marcus Williams,Arizona,1986-11-18T00:00:00,3,2007,2,33
+0,101107,Marvin Williams,North Carolina,1986-06-19T00:00:00,16,2005,1,2
+0,78558,Mike Williams,Bradley,1963-08-14T00:00:00,1,1986,3,51
+0,2590,Mo Williams,Alabama,1982-12-19T00:00:00,14,2003,2,47
+0,78561,Nate Williams,Utah State,1950-05-02T00:00:00,8,1976,5,69
+0,199,Reggie Williams,Georgetown,1964-03-05T00:00:00,10,1987,1,4
+0,202130,Reggie Williams,Virginia Military Institute,1986-09-14T00:00:00,7,Undrafted,Undrafted,Undrafted
+0,200761,Shawne Williams,Memphis,1986-02-16T00:00:00,8,2006,1,17
+0,200749,Shelden Williams,Duke,1983-10-21T00:00:00,7,2006,1,5
+0,201944,Terrence Williams,Louisville,1987-06-28T00:00:00,5,2009,1,11
+0,1627786,Troy Williams,Indiana,1994-12-30T00:00:00,4,Undrafted,Undrafted,Undrafted
+0,1630533,Ziaire Williams,Stanford,2001-09-12T00:00:00,1,2021,1,10
+0,1628430,Nigel Williams-Goss,Gonzaga,1994-09-16T00:00:00,2,2017,2,55
+0,1629627,Zion Williamson,Duke,2000-07-06T00:00:00,2,2019,1,1
+0,1628391,D.J. Wilson,Michigan,1996-02-19T00:00:00,5,2017,1,17
+0,1627787,Kyle Wiltjer,Gonzaga,1992-10-20T00:00:00,2,Undrafted,Undrafted,Undrafted
+0,1629685,Dylan Windler,Belmont,1996-09-22T00:00:00,2,2019,1,26
+0,1626159,Justise Winslow,Duke,1996-03-26T00:00:00,7,2015,1,10
+0,1630216,Cassius Winston,Michigan State,1998-02-28T00:00:00,2,2020,2,53
+0,203481,Jeff Withey,Kansas,1990-03-07T00:00:00,5,2013,2,39
+0,203489,Nate Wolters,South Dakota State,1991-05-15T00:00:00,3,2013,2,38
+0,1626174,Christian Wood,UNLV,1995-09-27T00:00:00,6,Undrafted,Undrafted,Undrafted
+0,1630218,Robert Woodard II,Mississippi State,1999-09-22T00:00:00,2,2020,2,40
+0,2254,Loren Woods,Arizona,1978-06-21T00:00:00,7,2001,2,45
+0,2417,Qyntel Woods,Northeast Mississippi CC,1981-02-16T00:00:00,4,2002,1,21
+0,101120,Antoine Wright,Texas A&M,1984-02-06T00:00:00,6,2005,1,15
+0,101152,Bracey Wright,Indiana,1984-07-01T00:00:00,2,2005,2,47
+0,201148,Brandan Wright,North Carolina,1987-10-05T00:00:00,10,2007,1,8
+0,1626153,Delon Wright,Utah,1992-04-26T00:00:00,7,2015,1,20
+0,201153,Julian Wright,Kansas,1987-05-20T00:00:00,5,2007,1,13
+0,1630589,Moses Wright,Georgia Tech,1998-12-23T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,1630593,McKinley Wright IV,Colorado,1998-10-25T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,203100,Tony Wroten,Washington,1993-04-13T00:00:00,5,2012,1,25
+0,2428,Vincent Yarbrough,Tennessee,1981-03-21T00:00:00,2,2002,2,32
+0,203923,James Young,Kentucky,1995-08-16T00:00:00,5,2014,1,17
+0,201156,Nick Young,Southern California,1985-06-01T00:00:00,12,2007,1,16
+0,201970,Sam Young,Pittsburgh,1985-06-01T00:00:00,5,2009,2,36
+0,201152,Thaddeus Young,Georgia Tech,1988-06-21T00:00:00,15,2007,1,12
+0,1629027,Trae Young,Oklahoma,1998-09-19T00:00:00,4,2018,1,5
+0,1630209,Omer Yurtseven,Georgetown,1998-06-19T00:00:00,1,Undrafted,Undrafted,Undrafted
+0,203469,Cody Zeller,Indiana,1992-10-05T00:00:00,9,2013,1,4
+0,203092,Tyler Zeller,North Carolina,1990-01-17T00:00:00,9,2012,1,17
+0,1627753,Zhou Qi,Xinjiang,1996-01-16T00:00:00,2,2016,2,43
+0,2583,Derrick Zimmerman,Mississippi State,1981-12-02T00:00:00,1,2003,2,40
+0,1627757,Stephen Zimmerman,UNLV,1996-09-09T00:00:00,2,2016,2,41
