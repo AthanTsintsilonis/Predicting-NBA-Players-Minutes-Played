@@ -6,6 +6,10 @@ Created on Tue Jul 12 15:15:35 2022
 """
 
 import pandas as pd
+from nba_api.stats.static import players
+from nba_api.stats.endpoints import cumestatsplayer
+import time
+from time import sleep
 
 draft_df = pd.read_csv('draft.csv')
 combine_df = pd.read_csv('combine.csv')
@@ -45,6 +49,19 @@ columns = ['Year', 'Player', 'POSITION', 'DRAFT_NUMBER', 'HEIGHT_WO_SHOES', 'WEI
 
 
 clean_df = total[columns]
+
+player_dict = players.get_players()
+
+minute_list = []
+for player in player_dict:
+    if player['full_name'] in clean_df['Player'].unique():
+        print(player['full_name'])
+        gameid = '002211230' 
+        player_id = player['id']
+        gamelog = cumestatsplayer.CumeStatsPlayer(player_id, game_ids= gameid)
+        gamelog_df = gamelog.get_data_frames()
+        minute_list.append(gamelog_df)
+
 
 clean_df.to_csv('clean.csv')
 
