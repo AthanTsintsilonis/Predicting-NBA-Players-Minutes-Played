@@ -8,6 +8,8 @@ Created on Tue Jul 12 15:15:35 2022
 import pandas as pd
 from nba_api.stats.static import players
 from nba_api.stats.endpoints import cumestatsplayer
+from nba_api.stats.endpoints import playergamelog
+from nba_api.stats.library.parameters import SeasonAll
 import time
 from time import sleep
 
@@ -52,18 +54,33 @@ clean_df = total[columns]
 
 player_dict = players.get_players()
 
-minute_list = []
+gamelogs = []
+dfs  =[]
 for player in player_dict:
     if player['full_name'] in clean_df['Player'].unique():
         print(player['full_name'])
-        gameid = '002211230' 
+        gameid = '0022000756' 
         player_id = player['id']
-        gamelog = cumestatsplayer.CumeStatsPlayer(player_id, game_ids= gameid)
-        gamelog_df = gamelog.get_data_frames()
-        minute_list.append(gamelog_df)
+        
+        gamelog = playergamelog.PlayerGameLog(player_id=player_id, season = SeasonAll.all).get_data_frames()[0]
+        gamelogs.append(gamelog)
+        
+        minute_sum = gamelog['MIN'].sum()
+        seasons_played = len(gamelog['SEASON_ID'].unique())
+        
+        data_dict = {'Player': player['full_name'], 'Total Minutes': minute_sum, 'Seasons Played': seasons_played}
+        df = pd.DataFrame([data_dict])
+        dfs.append(df)
+        sleep(0.5)
+        
 
+minutes_df = pd.concat(dfs)
+minutes_df['Average Minutes'] = minutes_df['Total Minutes']/minutes_df['Seasons Played']
 
-clean_df.to_csv('clean.csv')
+merged = pd.merge(clean_df, minutes_df, on='Player')
+
+merged.to_csv('merged.csv')
+#clean_df.to_csv('clean.csv')
 
 
 
