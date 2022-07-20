@@ -80,7 +80,7 @@ minutes_df['Average Minutes'] = minutes_df['Total Minutes']/minutes_df['Seasons 
 merged = pd.merge(clean_df, minutes_df, on='Player')
 
 merged.to_csv('merged.csv')
-#clean_df.to_csv('clean.csv')
+clean_df.to_csv('clean.csv')
 
 
 
