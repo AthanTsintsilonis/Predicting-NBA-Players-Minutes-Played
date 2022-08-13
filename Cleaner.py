@@ -15,7 +15,7 @@ from time import sleep
 
 draft_df = pd.read_csv('draft.csv')
 combine_df = pd.read_csv('combine.csv')
-ncaa_df = pd.read_csv('NCAA Stats')
+ncaa_df = pd.read_csv('NCAA Stats.csv')
 
 draft_columns = {'DISPLAY_FIRST_LAST' : 'Player', 'DRAFT_YEAR': 'Year'}
 draft_df = draft_df.rename(columns = draft_columns)
@@ -47,7 +47,7 @@ total['Age (Days)'] = (total['Year'] - total['Birth Year'])*365 + total['Birth M
 columns = ['Year', 'Player', 'POSITION', 'DRAFT_NUMBER', 'HEIGHT_WO_SHOES', 'WEIGHT', 'WINGSPAN',
 'STANDING_REACH', 'STANDING_REACH_FT_IN', 'STANDING_VERTICAL_LEAP',
 'MAX_VERTICAL_LEAP', 'LANE_AGILITY_TIME', 'THREE_QUARTER_SPRINT',
-'BENCH_PRESS', 'Age (Days)', 'DRAFT_NUMBER', 'G','MP', 'FG%', '2P%', '3P%', 'FT%', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'WS', 'BPM']
+'Age (Days)', 'DRAFT_NUMBER', 'G','MP', 'FG%', '2P%', '3P%', 'FT%', 'PTS', 'TRB', 'AST', 'STL', 'BLK', 'WS', 'BPM']
 
 
 clean_df = total[columns]
